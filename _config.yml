@@ -1,15 +1,11 @@
 # Site wide configuration
-
 title:  A blog by st3v3nhunt
 locale: en_US
-#url:   http://st3v3nhunt.github.io
-
+url:
 
 # Jekyll configuration
-
 permalink:   /:categories/:title/
 markdown:    kramdown
-#highlighter: rouge
 highlighter: pygments
 sass:
   sass_dir: _sass
@@ -24,8 +20,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-  #syntax_highlighter: rouge
-
 
 # Site owner
 owner:
