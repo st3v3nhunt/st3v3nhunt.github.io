@@ -2,14 +2,14 @@
 
 title:  A blog by st3v3nhunt
 locale: en_US
-url:   http://st3v3nhunt.github.io
+#url:   http://st3v3nhunt.github.io
 
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: rouge
+highlighter: true
 sass:
   sass_dir: _sass
   style: compressed
@@ -17,11 +17,13 @@ gems:
   - jekyll-sitemap
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
+  syntax_highlighter: rouge
 
 
 # Site owner
