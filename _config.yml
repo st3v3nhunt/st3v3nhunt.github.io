@@ -9,7 +9,8 @@ locale: en_US
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: true
+#highlighter: rouge
+highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
@@ -23,7 +24,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-  syntax_highlighter: rouge
+  #syntax_highlighter: rouge
 
 
 # Site owner
