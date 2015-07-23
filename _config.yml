@@ -1,7 +1,8 @@
 # Site wide configuration
 title:  A blog by st3v3nhunt
 locale: en_US
-url:
+url: https://st3v3nhunt.github.io
+#url: http://localhost:4000
 
 # Jekyll configuration
 permalink:   /:categories/:title/

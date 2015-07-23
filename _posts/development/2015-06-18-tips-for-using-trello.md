@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: [trello, tips, agile, development]
-share: false
 ---
 
 The team I work in uses [Trello](https://trello.com) to visualise our work.
