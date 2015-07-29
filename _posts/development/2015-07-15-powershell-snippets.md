@@ -17,3 +17,9 @@ A collection of Powershell snippets I have found useful.
 {% highlight powershell %}
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
 {% endhighlight %}
+
+
+* Delete all files/folders without confirmation messages:
+{% highlight powershell %}
+rm -r -force .\path\to\dir
+{% endhighlight %}
