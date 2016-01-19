@@ -4,3 +4,6 @@
 
 
 The blog is mostly concerned with software development and cycling.
+
+Run the site via `bundle exec jekyll serve`
+Build the site via `bundle exec jekyll build`
