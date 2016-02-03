@@ -10,12 +10,12 @@ Use an underscore (`_`) instead.
 
 An example. In a Razor view using the `Html.ActionLink(...)` helper to create an anchor element with an attribute called `data-values` the code would be:
 
-{% highlight c# %}
+```csharp
 @Html.ActionLink(
   "link text",
   "actionName",
   new { Model.Id },
   new { data_values = "some-value-for-the-data" })
-{% endhighlight %}
+```
 
 Sourced from [Stackoverflow](https://stackoverflow.com/questions/9444805/how-to-specify-data-attributes-in-razor-e-g-data-externalid-23151-on-this/9444822#9444822)
