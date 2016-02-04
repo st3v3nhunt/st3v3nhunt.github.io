@@ -2,6 +2,7 @@
 layout: post
 tags: [heroku, development, continuous delivery, practices, pipelines]
 comments: true
+modified: 2016-02-04
 ---
 
 [Pipelines in Heroku](https://devcenter.heroku.com/articles/pipelines) are pretty awesome. This is how I went about setting up a Node.js app to have automated deployments for all pull requests, an automated deployment to the staging environment and a manual stage for promoting to the production environment. Pretty much a bread and butter pipeline.
@@ -36,6 +37,9 @@ A little further down the screen there is the [Review apps](https://devcenter.he
 
 Following the link to manage review apps shows us the visualisation of the pipeline for the first time:
 ![Enable review apps in pipeline](/images/pipelines/enable-review-apps.png)
+
+It's worth noting if your repository doesn't include an `app.json` file you will be prompted to create one for the configuration of review apps. The default options will be sufficient for getting the pipeline up and running.
+{: .notice}
 
 Selecting to `Enable Review Apps` pops up this screen:
 ![Setup review apps for all pull requests](/images/pipelines/set-review-apps-auto-deploy.png)
