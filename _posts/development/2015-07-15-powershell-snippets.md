@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [powershell, tips, agile, development]
-modified: 2015-07-29
+modified: 2016-02-18
 comments: true
 ---
 
@@ -24,4 +24,29 @@ $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
 
 ```powershell
 rm -r -force .\path\to\dir
+```
+
+
+* List all environment variables with `Get-ChildItem` and its' aliases:
+
+```powershell
+Get-ChildItem Env:
+gci Env:
+dir Env:
+ls Env:
+```
+
+
+* Get specific environment variable using the `Path` as an example. The first option returns just the value whereas the second returns it in a table format:
+
+```powershell
+$Env:Path
+gci Env:Path
+```
+
+* Set specific environment variable:
+
+```powershell
+$env:Path = 'new value goes here'
+$Env:Path = 'new value goes here'
 ```
