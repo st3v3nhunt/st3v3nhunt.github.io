@@ -2,6 +2,7 @@
 layout: post
 tags: [development, ci, teamcity, gitlab]
 comments: true
+title: TeamCity Build Pipeline
 ---
 
 It has been a while since I setup a build configuration in TeamCity. I thought I would record what I did this time around.
