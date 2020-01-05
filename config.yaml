@@ -1,0 +1,25 @@
+baseURL: https://st3v3nhunt.github.io
+enableEmoji: true
+enableGitInfo: false
+googleAnalytics: UA-21223368-5
+summaryLength: 10
+theme: hyde-hyde
+title: A blog by st3v3nhunt
+
+menu:
+  main:
+    - name: "Posts"
+      url: "/posts/"
+
+params:
+  author: "Steven Hunt"
+  copyright: "st3v3nhunt"
+  dateformat: "02-01-2006"
+  highlightjs: true
+  highlightjsstyle: "monokai-sublime"
+  license: "CC BY-SA 4.0"
+  licenseURL: "https://creativecommons.org/licenses/by-sa/4.0"
+  showbuiltwith: true
+  social:
+    github: "st3v3nhunt"
+    twitter: "st3v3nhunt"
