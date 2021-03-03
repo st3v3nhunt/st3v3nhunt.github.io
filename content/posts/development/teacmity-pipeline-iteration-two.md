@@ -6,7 +6,7 @@ categories: [ "development" ]
 ---
 
 Now I have had the [TeamCity build
-pipeline](https://st3v3nhunt.github.io/teamcity-pipeline/) running for a while
+pipeline](../teamcity-pipeline/) running for a while
 I have had chance to review how it works. I have made a number of changes which
 I have summarised, along with the reasoning below.
 
@@ -44,11 +44,11 @@ detected. Hardly ideal.
 
 I have rewritten one of the original steps which I have already written about
 regarding the creation of the
-[NuGet packages](https://st3v3nhunt.github.io/branch-based-nuget-packages-in-teacmity/).
+[NuGet packages](../branch-based-nuget-packages-in-teacmity/).
 Since then I have made more changes to the script. The changes are mostly due
 to it now being a standalone script and not source code saved in TeamCity. The
 other changes are that a datetime stamp is no longer appended to the package
-version as it isn't neccessary, the pattern `-prerelease` is sufficient to
+version as it isn't necessary, the pattern `-prerelease` is sufficient to
 indicate a
 [pre-release NuGet package](https://docs.nuget.org/create/versioning#user-content-creating-prerelease-packages).
 The final change being to ignore errors during the deletion of the output

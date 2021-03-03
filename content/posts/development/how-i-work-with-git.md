@@ -9,7 +9,7 @@ I really enjoy introducing people to Git. Pretty much without fail they see how
 much better their development work-flow can be and find their work more
 enjoyable as a result. This is especially true if they are coming from a TFS
 background. See how I work with
-[Git and TFS](https://st3v3nhunt.github.io/how-i-work-with-git-and-tfs/).
+[Git and TFS](../how-i-work-with-git-and-tfs/).
 However, with pleasure comes pain. For Git, that pain is in getting over the
 learning curve. The size and steepness of the curve varies depending on
 previous experience of
@@ -47,9 +47,9 @@ with non-reserved names for their own purposes e.g. backup or sharing.
 ## Commit message conventions
 
 I've previously written about how I think
-[emojis add](https://st3v3nhunt.github.io/how-much-is-an-emoji-worth/) to the
+[emojis add](../how-much-is-an-emoji-worth/) to the
 information contained within a commit message. And how to
-[provide insight](https://st3v3nhunt.github.io/are-your-commit-messages-insightful/)
+[provide insight](../are-your-commit-messages-insightful/)
 into the change being made, as opposed to simply regurgitating the change being
 made.
 
@@ -80,7 +80,7 @@ Good commits should generally:
 
 ## Git aliases
 
-I've got another [post](https://st3v3nhunt.github.io/git-aliases/) on git
+I've got another [post](../git-aliases/) on git
 aliases and how to share them.
 
 ## Branch protection

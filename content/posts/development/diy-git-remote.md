@@ -10,7 +10,7 @@ categories: [ "development" ]
 I often work in environments where the code is centrally stored in TFS. And as
 I hate, HATE, **HATE** TFS I have to find other ways to interact with the VCS
 to keep my sanity. [GitTFS](http://git-tfs.com/) to the rescue. I've written
-about this [before](https://st3v3nhunt.github.io/how-i-work-with-git-and-tfs/).
+about this [before](../how-i-work-with-git-and-tfs/).
 
 I have a number of colleagues who feel the same way about TFS but until
 recently we were happy to use the shelveset feature to do code reviews.
@@ -87,7 +87,7 @@ The reviewed and merged branch should now exist on the network shared Git repo.
 The person whose machine hosts the network share needs to be informed of the
 branch and that it should be pushed to TFS.
 
-The push to TFS involves using GitTFS to checkin the changes:
+The push to TFS involves using GitTFS to check-in the changes:
 `git-tfs checkin -m "<message here>"`
 
 Hopefully no additional changes have been made to TFS during the review
