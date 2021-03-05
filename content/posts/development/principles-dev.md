@@ -1,6 +1,7 @@
 ---
-title: "What are my development principles"
+title: "Development practices and principles"
 date: "2021-02-28"
+modified: "2021-03-02"
 tags: [ "principles", "development", "practices" ]
 categories: [ "development" ]
 ---

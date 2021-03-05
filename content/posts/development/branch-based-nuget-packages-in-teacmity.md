@@ -7,7 +7,7 @@ categories: [ "development" ]
 ---
 
 As I was reviewing the TeamCity build configuration I'd
-[setup](https://st3v3nhunt.github.io/teamcity-pipeline/) with my colleagues, it
+[setup](../teamcity-pipeline/) with my colleagues, it
 was pointed out every build was creating a new NuGet package. Not great when
 you consider every branch was triggering a build and most of those branches
 were not `master`.
@@ -61,16 +61,16 @@ The PowerShell script I ended up with is:
 The logic is straight forward enough, if the branch is determined to be the
 default one, create a package based on the build number e.g. `1.0.12`. If the
 branch is not default, a
-[prerelease version](https://docs.nuget.org/create/versioning#user-content-prerelease-versions)
+[pre-release version](https://docs.nuget.org/create/versioning#user-content-prerelease-versions)
 will be created with the date and time the package was created e.g.
 `1.0.11-pre20160418093024`. The reason for prepending the time stamp with `pre`
-is to make the version number valid due to the prerelease section not able to
+is to make the version number valid due to the pre-release section not able to
 be purely numeric. Another change I had to make to the way I was originally
-going to set the prerelease section (based on branch name) was due to the
+going to set the pre-release section (based on branch name) was due to the
 length limitation of 20 characters max. The time stamp is a fixed length, until
 we get to the year 10,000 AD at least.
 
 Taking this approach allows all branch builds to be visible in the NuGet feed
-but only those built from `master` are not marked as prerelease. This means as
-we develop the package we can select specific prerelease versions to test
+but only those built from `master` are not marked as pre-release. This means as
+we develop the package we can select specific pre-release versions to test
 before merging them into `master`, should we wish.
