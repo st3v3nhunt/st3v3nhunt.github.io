@@ -6,7 +6,7 @@ in
 <a class="badge badge-tag" href=/tags/development>development</a>
 <a class="badge badge-tag" href=/tags/gitlab>gitlab</a>
 <a class="badge badge-tag" href=/tags/teamcity>teamcity</a><br><i class="fas fa-clock"></i>3 min read</div></header><div class=post><p>As I was reviewing the TeamCity build configuration I&rsquo;d
-<a href=https://st3v3nhunt.github.io/teamcity-pipeline/>setup</a> with my colleagues, it
+<a href=../teamcity-pipeline/>setup</a> with my colleagues, it
 was pointed out every build was creating a new NuGet package. Not great when
 you consider every branch was triggering a build and most of those branches
 were not <code>master</code>.</p><h2 id=the-problem-with-every-branch>The problem with every branch</h2><p>Generally it is not a good idea to have every branch generating a NuGet package
@@ -35,16 +35,16 @@ configuration and I wanted to maintain the integration between GitLab and
 TeamCity.</p><h2 id=nuget-creation-via-powershell>NuGet creation via PowerShell</h2><p>The PowerShell script I ended up with is:</p><script type=application/javascript src=https://gist.github.com/st3v3nhunt/48a8009c03608b3870596cdae0e09da7.js></script><p>The logic is straight forward enough, if the branch is determined to be the
 default one, create a package based on the build number e.g. <code>1.0.12</code>. If the
 branch is not default, a
-<a href=https://docs.nuget.org/create/versioning#user-content-prerelease-versions>prerelease version</a>
+<a href=https://docs.nuget.org/create/versioning#user-content-prerelease-versions>pre-release version</a>
 will be created with the date and time the package was created e.g.
 <code>1.0.11-pre20160418093024</code>. The reason for prepending the time stamp with <code>pre</code>
-is to make the version number valid due to the prerelease section not able to
+is to make the version number valid due to the pre-release section not able to
 be purely numeric. Another change I had to make to the way I was originally
-going to set the prerelease section (based on branch name) was due to the
+going to set the pre-release section (based on branch name) was due to the
 length limitation of 20 characters max. The time stamp is a fixed length, until
 we get to the year 10,000 AD at least.</p><p>Taking this approach allows all branch builds to be visible in the NuGet feed
-but only those built from <code>master</code> are not marked as prerelease. This means as
-we develop the package we can select specific prerelease versions to test
+but only those built from <code>master</code> are not marked as pre-release. This means as
+we develop the package we can select specific pre-release versions to test
 before merging them into <code>master</code>, should we wish.</p></div><div class="navigation navigation-single"><a href=/posts/development/diy-git-remote/ class=navigation-prev><i aria-hidden=true class="fa fa-chevron-left"></i><span class=navigation-tittle>DIY git remotes</span></a>
 <a href=/posts/development/teacmity-pipeline-iteration-two/ class=navigation-next><span class=navigation-tittle>TeamCity Pipeline - iteration two</span>
 <i aria-hidden=true class="fa fa-chevron-right"></i></a></div></article></div><script type=application/javascript>var doNotTrack=false;if(!doNotTrack){window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;ga('create','UA-21223368-5','auto');ga('send','pageview');}</script><script async src=https://www.google-analytics.com/analytics.js></script><script defer src=https://use.fontawesome.com/releases/v5.12.1/js/all.js integrity=sha384-ZbbbT1gw3joYkKRqh0kWyRp32UAvdqkpbLedQJSlnI8iLQcFVxaGyrOgOJiDQTTR crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js></script><script type=text/javascript>hljs.initHighlightingOnLoad();</script></body></html>

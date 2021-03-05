@@ -9,7 +9,7 @@ in
 <a class="badge badge-tag" href=/tags/ways-of-working>ways-of-working</a><br><i class="fas fa-clock"></i>4 min read</div></header><div class=post><h2 id=working-with-a-non-cloud-hosted-git-remote>Working with a non-cloud hosted Git remote</h2><p>I often work in environments where the code is centrally stored in TFS. And as
 I hate, HATE, <strong>HATE</strong> TFS I have to find other ways to interact with the VCS
 to keep my sanity. <a href=http://git-tfs.com/>GitTFS</a> to the rescue. I&rsquo;ve written
-about this <a href=https://st3v3nhunt.github.io/how-i-work-with-git-and-tfs/>before</a>.</p><p>I have a number of colleagues who feel the same way about TFS but until
+about this <a href=../how-i-work-with-git-and-tfs/>before</a>.</p><p>I have a number of colleagues who feel the same way about TFS but until
 recently we were happy to use the shelveset feature to do code reviews.
 However, after a period of time doing &lsquo;proper&rsquo; reviews in
 <a href=https://github.com/>GitHub</a> and <a href=https://gitlab.com/>GitLab</a> one of my
@@ -40,7 +40,7 @@ local Git repo and we don&rsquo;t want to go messing with it!
 occur. This is done by creating a merge commit (the default behaviour of GitHub
 and GitLab). To create a merge commit use the following options:</p><ul><li>no fast forward with <code>--no-ff</code></li><li>add a message with <code>-m "my commit message"</code></li><li>include the previous commit messages with <code>--log</code></li></ul><p><code>git merge --no-ff -m "&lt;message>" --log review/&lt;branch-name></code></p><h3 id=check-into-tfs>Check into TFS</h3><p>The reviewed and merged branch should now exist on the network shared Git repo.
 The person whose machine hosts the network share needs to be informed of the
-branch and that it should be pushed to TFS.</p><p>The push to TFS involves using GitTFS to checkin the changes:
+branch and that it should be pushed to TFS.</p><p>The push to TFS involves using GitTFS to check-in the changes:
 <code>git-tfs checkin -m "&lt;message here>"</code></p><p>Hopefully no additional changes have been made to TFS during the review
 process. If there are changes, the pusher will need to rebase the reviewed
 branch against the latest changes (or ask one of the people involved in the
