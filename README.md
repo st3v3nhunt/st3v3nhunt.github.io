@@ -12,7 +12,7 @@ It is hosted on [GitHub Pages](https://pages.github.com/).
 
 Clone the repo and submodules:
 
-```shell
+```sh
 git clone https://github.com/st3v3nhunt/st3v3nhunt.github.io
 git submodule update --init --recursive
 ```
