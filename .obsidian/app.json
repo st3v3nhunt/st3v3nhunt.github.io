@@ -1,0 +1,19 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "attachmentFolderPath": "static/images",
+  "vimMode": true,
+  "autoPairMarkdown": false,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "userIgnoreFilters": [
+    "archetypes/",
+    "resources/",
+    "themes/",
+    "static/assets/",
+    "static/posts/"
+  ],
+  "promptDelete": false,
+  "strictLineBreaks": true
+}
