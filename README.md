@@ -26,3 +26,9 @@ git submodule update --init --recursive
 
 1. When happy with the new content, push the changes to the remote. GitHub
    Actions will generate the content into `./public` on the `gh-pages` branch.
+
+## Notes
+
+Files added to [static/](./static) are included in the built output that is
+pushed to `gh-pages` branch. Therefore, should a file need to be added to the
+deployed app e.g. `CNAME` add it to `static`.
