@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>branch on A blog by st3v3nhunt</title><link>https://blog.st3v3nhunt.me/tags/branch/</link><description>Recent content in branch on A blog by st3v3nhunt</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/branch/index.xml" rel="self" type="application/rss+xml"/><item><title>Fetch remote Git branches</title><link>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</link><pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</guid><description>After having added a new remote to my local git repository via git remote add other-remote git@github.</description></item><item><title>Prune remote git branches</title><link>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</link><pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</guid><description>Using git branch -r to check the list of branches on the remote can often lead to a long list of branches making it difficult to tell which are active e.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>branch on A blog by st3v3nhunt</title>
+    <link>https://blog.st3v3nhunt.me/tags/branch/</link>
+    <description>Recent content in branch on A blog by st3v3nhunt</description>
+    <image>
+      <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/branch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fetch remote Git branches</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</guid>
+      <description>After having added a new remote to my local git repository via git remote add other-remote git@github.</description>
+    </item>
+    
+    <item>
+      <title>Prune remote git branches</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</guid>
+      <description>Using git branch -r to check the list of branches on the remote can often lead to a long list of branches making it difficult to tell which are active e.</description>
+    </item>
+    
+  </channel>
+</rss>

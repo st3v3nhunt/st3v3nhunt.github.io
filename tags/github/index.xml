@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>github on A blog by st3v3nhunt</title><link>https://blog.st3v3nhunt.me/tags/github/</link><description>Recent content in github on A blog by st3v3nhunt</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 12 Jul 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Use personal Slack for GitHub notifications</title><link>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</link><pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</guid><description>GitHub is a pretty decent cloud based Git repository. I would put it in my top 2 along with GitLab.</description></item><item><title>How I work with Git</title><link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</link><pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</guid><description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>github on A blog by st3v3nhunt</title>
+    <link>https://blog.st3v3nhunt.me/tags/github/</link>
+    <description>Recent content in github on A blog by st3v3nhunt</description>
+    <image>
+      <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Jul 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use personal Slack for GitHub notifications</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</guid>
+      <description>GitHub is a pretty decent cloud based Git repository. I would put it in my top 2 along with GitLab.</description>
+    </item>
+    
+    <item>
+      <title>How I work with Git</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</guid>
+      <description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description>
+    </item>
+    
+  </channel>
+</rss>

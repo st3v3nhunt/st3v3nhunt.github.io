@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vcs on A blog by st3v3nhunt</title><link>https://blog.st3v3nhunt.me/tags/vcs/</link><description>Recent content in vcs on A blog by st3v3nhunt</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/vcs/index.xml" rel="self" type="application/rss+xml"/><item><title>DIY git remotes</title><link>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</link><pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</guid><description>Working with a non-cloud hosted Git remote I often work in environments where the code is centrally stored in TFS.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>vcs on A blog by st3v3nhunt</title>
+    <link>https://blog.st3v3nhunt.me/tags/vcs/</link>
+    <description>Recent content in vcs on A blog by st3v3nhunt</description>
+    <image>
+      <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/vcs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIY git remotes</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</link>
+      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</guid>
+      <description>Working with a non-cloud hosted Git remote I often work in environments where the code is centrally stored in TFS.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>angularjs on A blog by st3v3nhunt</title><link>https://blog.st3v3nhunt.me/tags/angularjs/</link><description>Recent content in angularjs on A blog by st3v3nhunt</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 09 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/angularjs/index.xml" rel="self" type="application/rss+xml"/><item><title>Choosing a frontend JavaScript framework</title><link>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</link><pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</guid><description>The majority of my coding time is spent in the back-end, so to speak.</description></item><item><title>Getting started with AngularJS</title><link>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</link><pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</guid><description>There are so many resources available to help you get going with AngularJS it can be difficult to know where to start.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>angularjs on A blog by st3v3nhunt</title>
+    <link>https://blog.st3v3nhunt.me/tags/angularjs/</link>
+    <description>Recent content in angularjs on A blog by st3v3nhunt</description>
+    <image>
+      <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/angularjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing a frontend JavaScript framework</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</link>
+      <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</guid>
+      <description>The majority of my coding time is spent in the back-end, so to speak.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with AngularJS</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</link>
+      <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</guid>
+      <description>There are so many resources available to help you get going with AngularJS it can be difficult to know where to start.</description>
+    </item>
+    
+  </channel>
+</rss>

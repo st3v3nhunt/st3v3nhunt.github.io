@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>guidance on A blog by st3v3nhunt</title><link>https://blog.st3v3nhunt.me/tags/guidance/</link><description>Recent content in guidance on A blog by st3v3nhunt</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/guidance/index.xml" rel="self" type="application/rss+xml"/><item><title>Communicating changes in PRs</title><link>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</link><pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</guid><description>When asking for a review of a pull request (PR) ensure there is suitable context provided to the reviewer(s).</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>guidance on A blog by st3v3nhunt</title>
+    <link>https://blog.st3v3nhunt.me/tags/guidance/</link>
+    <description>Recent content in guidance on A blog by st3v3nhunt</description>
+    <image>
+      <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/guidance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communicating changes in PRs</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</guid>
+      <description>When asking for a review of a pull request (PR) ensure there is suitable context provided to the reviewer(s).</description>
+    </item>
+    
+  </channel>
+</rss>

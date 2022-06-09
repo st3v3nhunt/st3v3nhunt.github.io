@@ -1,2 +1,276 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>development on A blog by st3v3nhunt</title><link>https://blog.st3v3nhunt.me/categories/development/</link><description>Recent content in development on A blog by st3v3nhunt</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/categories/development/index.xml" rel="self" type="application/rss+xml"/><item><title>Communicating changes in PRs</title><link>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</link><pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</guid><description>When asking for a review of a pull request (PR) ensure there is suitable context provided to the reviewer(s).</description></item><item><title>App Specific Domain Names for Local Dev</title><link>https://blog.st3v3nhunt.me/posts/development/app-specific-domain-names-for-local-dev/</link><pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/app-specific-domain-names-for-local-dev/</guid><description>A common architectural style (at the time of writing) is to split up applications into many, smaller, more focussed applications.</description></item><item><title>General working principles</title><link>https://blog.st3v3nhunt.me/posts/development/principles-general/</link><pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/principles-general/</guid><description>Following on from the post about development practices and principles I wanted to capture principles more related to general ways of thinking and working.</description></item><item><title>Development practices and principles</title><link>https://blog.st3v3nhunt.me/posts/development/principles-dev/</link><pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/principles-dev/</guid><description>During my time working in software development I&amp;rsquo;ve picked up a few guiding principles I try to consistently follow.</description></item><item><title>When to Use Microservices (And When Not to!)</title><link>https://blog.st3v3nhunt.me/posts/development/when-to-use-microservices/</link><pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/when-to-use-microservices/</guid><description>I watched When To Use Microservices (And When Not to!) soon after it was published but never got round to publishing this post, which I wrote at the same time but have edited more recently so I could publish it.</description></item><item><title>Use personal Slack for GitHub notifications</title><link>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</link><pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</guid><description>GitHub is a pretty decent cloud based Git repository. I would put it in my top 2 along with GitLab.</description></item><item><title>TeamCity Pipeline - iteration two</title><link>https://blog.st3v3nhunt.me/posts/development/teacmity-pipeline-iteration-two/</link><pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/teacmity-pipeline-iteration-two/</guid><description>Now I have had the TeamCity build pipeline running for a while I have had chance to review how it works.</description></item><item><title>Create branch based NuGet packages in TeamCity</title><link>https://blog.st3v3nhunt.me/posts/development/branch-based-nuget-packages-in-teacmity/</link><pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/branch-based-nuget-packages-in-teacmity/</guid><description>As I was reviewing the TeamCity build configuration I&amp;rsquo;d setup with my colleagues, it was pointed out every build was creating a new NuGet package.</description></item><item><title>DIY git remotes</title><link>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</link><pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</guid><description>Working with a non-cloud hosted Git remote I often work in environments where the code is centrally stored in TFS.</description></item><item><title>Git aliases</title><link>https://blog.st3v3nhunt.me/posts/development/git-aliases/</link><pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/git-aliases/</guid><description>In order to provide a consistent development environment between team members as well as making it easier to do physical pair programming sharing a .</description></item><item><title>How I work with Git</title><link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</link><pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</guid><description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description></item><item><title>TeamCity Build Pipeline</title><link>https://blog.st3v3nhunt.me/posts/development/teamcity-pipeline/</link><pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/teamcity-pipeline/</guid><description>It has been a while since I setup a build configuration in TeamCity.</description></item><item><title>What lessons should one learn from the Gliffy outage?</title><link>https://blog.st3v3nhunt.me/posts/development/gliffy-outage-lessons/</link><pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/gliffy-outage-lessons/</guid><description>Ever since the recent lengthy and complete outage of Gliffy, I have been thinking about how I could (should that be a should?</description></item><item><title>How I work with Git and TFS</title><link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git-and-tfs/</link><pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git-and-tfs/</guid><description>This post has been one I&amp;rsquo;ve been meaning to write for months and months.</description></item><item><title>Interesting Articles (week one)</title><link>https://blog.st3v3nhunt.me/posts/development/interesting-articles/</link><pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/interesting-articles/</guid><description>I was recently asked to provide a link to an article that had resonated with me in the recent past.</description></item><item><title>Hack day lite</title><link>https://blog.st3v3nhunt.me/posts/development/hack-day/</link><pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/hack-day/</guid><description>This is a post I have been sat on for some time.</description></item><item><title>How to setup a simple Heroku pipeline</title><link>https://blog.st3v3nhunt.me/posts/development/how-to-setup-a-simple-heroku-pipeline/</link><pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/how-to-setup-a-simple-heroku-pipeline/</guid><description>Pipelines in Heroku are pretty awesome. This is how I went about setting up a Node.</description></item><item><title>Fetch remote Git branches</title><link>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</link><pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</guid><description>After having added a new remote to my local git repository via git remote add other-remote git@github.</description></item><item><title>Are Your Commit Messages Insightful?</title><link>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</link><pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</guid><description>A good commit message is a hard thing to do.</description></item><item><title>How much is an emoji worth</title><link>https://blog.st3v3nhunt.me/posts/development/how-much-is-an-emoji-worth/</link><pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/how-much-is-an-emoji-worth/</guid><description>I have written a bit about how to make your commit messages more insightful.</description></item><item><title>Choosing a frontend JavaScript framework</title><link>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</link><pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</guid><description>The majority of my coding time is spent in the back-end, so to speak.</description></item><item><title>Getting started with AngularJS</title><link>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</link><pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</guid><description>There are so many resources available to help you get going with AngularJS it can be difficult to know where to start.</description></item><item><title>Prune remote git branches</title><link>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</link><pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</guid><description>Using git branch -r to check the list of branches on the remote can often lead to a long list of branches making it difficult to tell which are active e.</description></item><item><title>Powershell snippets</title><link>https://blog.st3v3nhunt.me/posts/development/powershell-snippets/</link><pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/powershell-snippets/</guid><description>A collection of Powershell snippets I have found useful.
-Set the title of the window: (Get-Host).</description></item><item><title>Tips for using Trello</title><link>https://blog.st3v3nhunt.me/posts/development/tips-for-using-trello/</link><pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/tips-for-using-trello/</guid><description>The team I work in uses Trello to visualise our work.</description></item><item><title>Dashed html attribute in C# view engine</title><link>https://blog.st3v3nhunt.me/posts/development/dashed-html-attribute-in-c-sharp-view-engine/</link><pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/dashed-html-attribute-in-c-sharp-view-engine/</guid><description>How do you generate attributes for html elements that have a dash (-) in them through a C# view template engine while using object initialiser syntax?</description></item><item><title>Do not use include near in count queries</title><link>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</link><pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</guid><description>Using MongoDB to build an API providing some search and filtering functionality.</description></item><item><title>Cumulative flow diagrams</title><link>https://blog.st3v3nhunt.me/posts/development/cumulative-flow-diagrams/</link><pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/cumulative-flow-diagrams/</guid><description>What is a CFD? A CFD is a graph showing the state of the work over a period of time based on data acquired from Kanban.</description></item><item><title>How do we work</title><link>https://blog.st3v3nhunt.me/posts/development/how-do-we-work/</link><pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate><guid>https://blog.st3v3nhunt.me/posts/development/how-do-we-work/</guid><description>This is a little bit about how work at where I work works.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>development on A blog by st3v3nhunt</title>
+    <link>https://blog.st3v3nhunt.me/categories/development/</link>
+    <description>Recent content in development on A blog by st3v3nhunt</description>
+    <image>
+      <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communicating changes in PRs</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</guid>
+      <description>When asking for a review of a pull request (PR) ensure there is suitable context provided to the reviewer(s).</description>
+    </item>
+    
+    <item>
+      <title>App Specific Domain Names for Local Dev</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/app-specific-domain-names-for-local-dev/</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/app-specific-domain-names-for-local-dev/</guid>
+      <description>A common architectural style (at the time of writing) is to split up applications into many, smaller, more focussed applications.</description>
+    </item>
+    
+    <item>
+      <title>General working principles</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/principles-general/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/principles-general/</guid>
+      <description>Following on from the post about development practices and principles I wanted to capture principles more related to general ways of thinking and working.</description>
+    </item>
+    
+    <item>
+      <title>Development practices and principles</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/principles-dev/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/principles-dev/</guid>
+      <description>During my time working in software development I&amp;rsquo;ve picked up a few guiding principles I try to consistently follow.</description>
+    </item>
+    
+    <item>
+      <title>When to Use Microservices (And When Not to!)</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/when-to-use-microservices/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/when-to-use-microservices/</guid>
+      <description>I watched When To Use Microservices (And When Not to!) soon after it was published but never got round to publishing this post, which I wrote at the same time but have edited more recently so I could publish it.</description>
+    </item>
+    
+    <item>
+      <title>Use personal Slack for GitHub notifications</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</guid>
+      <description>GitHub is a pretty decent cloud based Git repository. I would put it in my top 2 along with GitLab.</description>
+    </item>
+    
+    <item>
+      <title>TeamCity Pipeline - iteration two</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/teacmity-pipeline-iteration-two/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/teacmity-pipeline-iteration-two/</guid>
+      <description>Now I have had the TeamCity build pipeline running for a while I have had chance to review how it works.</description>
+    </item>
+    
+    <item>
+      <title>Create branch based NuGet packages in TeamCity</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/branch-based-nuget-packages-in-teacmity/</link>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/branch-based-nuget-packages-in-teacmity/</guid>
+      <description>As I was reviewing the TeamCity build configuration I&amp;rsquo;d setup with my colleagues, it was pointed out every build was creating a new NuGet package.</description>
+    </item>
+    
+    <item>
+      <title>DIY git remotes</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</link>
+      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</guid>
+      <description>Working with a non-cloud hosted Git remote I often work in environments where the code is centrally stored in TFS.</description>
+    </item>
+    
+    <item>
+      <title>Git aliases</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/git-aliases/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/git-aliases/</guid>
+      <description>In order to provide a consistent development environment between team members as well as making it easier to do physical pair programming sharing a .</description>
+    </item>
+    
+    <item>
+      <title>How I work with Git</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</guid>
+      <description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description>
+    </item>
+    
+    <item>
+      <title>TeamCity Build Pipeline</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/teamcity-pipeline/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/teamcity-pipeline/</guid>
+      <description>It has been a while since I setup a build configuration in TeamCity.</description>
+    </item>
+    
+    <item>
+      <title>What lessons should one learn from the Gliffy outage?</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/gliffy-outage-lessons/</link>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/gliffy-outage-lessons/</guid>
+      <description>Ever since the recent lengthy and complete outage of Gliffy, I have been thinking about how I could (should that be a should?</description>
+    </item>
+    
+    <item>
+      <title>How I work with Git and TFS</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git-and-tfs/</link>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git-and-tfs/</guid>
+      <description>This post has been one I&amp;rsquo;ve been meaning to write for months and months.</description>
+    </item>
+    
+    <item>
+      <title>Interesting Articles (week one)</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/interesting-articles/</link>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/interesting-articles/</guid>
+      <description>I was recently asked to provide a link to an article that had resonated with me in the recent past.</description>
+    </item>
+    
+    <item>
+      <title>Hack day lite</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/hack-day/</link>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/hack-day/</guid>
+      <description>This is a post I have been sat on for some time.</description>
+    </item>
+    
+    <item>
+      <title>How to setup a simple Heroku pipeline</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/how-to-setup-a-simple-heroku-pipeline/</link>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/how-to-setup-a-simple-heroku-pipeline/</guid>
+      <description>Pipelines in Heroku are pretty awesome. This is how I went about setting up a Node.</description>
+    </item>
+    
+    <item>
+      <title>Fetch remote Git branches</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</guid>
+      <description>After having added a new remote to my local git repository via git remote add other-remote git@github.</description>
+    </item>
+    
+    <item>
+      <title>Are Your Commit Messages Insightful?</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</guid>
+      <description>A good commit message is a hard thing to do.</description>
+    </item>
+    
+    <item>
+      <title>How much is an emoji worth</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/how-much-is-an-emoji-worth/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/how-much-is-an-emoji-worth/</guid>
+      <description>I have written a bit about how to make your commit messages more insightful.</description>
+    </item>
+    
+    <item>
+      <title>Choosing a frontend JavaScript framework</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</link>
+      <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</guid>
+      <description>The majority of my coding time is spent in the back-end, so to speak.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with AngularJS</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</link>
+      <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</guid>
+      <description>There are so many resources available to help you get going with AngularJS it can be difficult to know where to start.</description>
+    </item>
+    
+    <item>
+      <title>Prune remote git branches</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</guid>
+      <description>Using git branch -r to check the list of branches on the remote can often lead to a long list of branches making it difficult to tell which are active e.</description>
+    </item>
+    
+    <item>
+      <title>Powershell snippets</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/powershell-snippets/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/powershell-snippets/</guid>
+      <description>A collection of Powershell snippets I have found useful.
+ Set the title of the window:  (Get-Host).</description>
+    </item>
+    
+    <item>
+      <title>Tips for using Trello</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/tips-for-using-trello/</link>
+      <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/tips-for-using-trello/</guid>
+      <description>The team I work in uses Trello to visualise our work.</description>
+    </item>
+    
+    <item>
+      <title>Dashed html attribute in C# view engine</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/dashed-html-attribute-in-c-sharp-view-engine/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/dashed-html-attribute-in-c-sharp-view-engine/</guid>
+      <description>How do you generate attributes for html elements that have a dash (-) in them through a C# view template engine while using object initialiser syntax?</description>
+    </item>
+    
+    <item>
+      <title>Do not use include near in count queries</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</link>
+      <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</guid>
+      <description>Using MongoDB to build an API providing some search and filtering functionality.</description>
+    </item>
+    
+    <item>
+      <title>Cumulative flow diagrams</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/cumulative-flow-diagrams/</link>
+      <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/cumulative-flow-diagrams/</guid>
+      <description>What is a CFD? A CFD is a graph showing the state of the work over a period of time based on data acquired from Kanban.</description>
+    </item>
+    
+    <item>
+      <title>How do we work</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/how-do-we-work/</link>
+      <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/how-do-we-work/</guid>
+      <description>This is a little bit about how work at where I work works.</description>
+    </item>
+    
+  </channel>
+</rss>
