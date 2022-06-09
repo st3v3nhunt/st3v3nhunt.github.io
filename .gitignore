@@ -9,3 +9,4 @@ _asset_bundler_cache
 resources
 .obsidian/workspace
 public
+.hugo_build.lock
