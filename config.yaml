@@ -1,5 +1,6 @@
 baseURL: https://blog.st3v3nhunt.me
 enableEmoji: true
+paginate: 10
 summaryLength: 10
 theme: papermod
 title: A blog by st3v3nhunt
@@ -23,12 +24,7 @@ outputs:
     home:
         - HTML
         - RSS
-        - JSON # is necessary
-
-# baseURL: "https://examplesite.com/"
-# title: ExampleSite
-paginate: 10
-# theme: PaperMod
+        - JSON
 
 # enableRobotsTXT: true
 buildDrafts: false
@@ -43,7 +39,7 @@ minify:
 params:
     author: "Steve Hunt"
     copyright: "st3v3nhunt"
-    # dateformat: "02-01-2006"
+    DateFormat: "02 January 2006"
     highlightjs: true
     highlightjsstyle: "monokai-sublime"
     license: "CC BY-SA 4.0"
@@ -56,10 +52,7 @@ params:
     title: ExampleSite
     description: "ExampleSite description"
     keywords: [Blog, Portfolio, PaperMod]
-    # author: Me
-    # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
-    DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
@@ -67,7 +60,7 @@ params:
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: false
+    ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
@@ -77,18 +70,11 @@ params:
     tocopen: false
 
     assets:
-        # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
-
-    # label:
-    #     text: "Home"
-    #     icon: /apple-touch-icon.png
-    #     iconHeight: 35
+      favicon: "/favicon.ico"
+      favicon16x16:  "/favicon-16x16.png"
+      favicon32x32:  "/favicon-32x32.png"
+      apple_touch_icon:  "/apple-touch-icon.png"
+      safari_pinned_tab:  "/apple-touch-icon.png"
 
     # profile-mode
     profileMode:
