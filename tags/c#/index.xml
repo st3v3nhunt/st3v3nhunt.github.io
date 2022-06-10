@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 04 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/c#/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dashed html attribute in C# view engine</title>
+      <title>:dash: Dashed html attribute in C# view engine</title>
       <link>https://blog.st3v3nhunt.me/posts/development/dashed-html-attribute-in-c-sharp-view-engine/</link>
       <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Do not use include near in count queries</title>
+      <title>:1234: Do not use include near in count queries</title>
       <link>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</link>
       <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
       

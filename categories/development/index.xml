@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>App specific domain names for local dev</title>
+      <title>:computer: App specific domain names for local dev</title>
       <link>https://blog.st3v3nhunt.me/posts/development/app-specific-domain-names-for-local-dev/</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>General working principles</title>
+      <title>:golf: General working principles</title>
       <link>https://blog.st3v3nhunt.me/posts/development/principles-general/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>Development practices and principles</title>
+      <title>:three: Development practices and principles</title>
       <link>https://blog.st3v3nhunt.me/posts/development/principles-dev/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -56,7 +56,7 @@
     </item>
     
     <item>
-      <title>When to Use Microservices (And When Not to!)</title>
+      <title>:microscope: When to Use Microservices (And When Not to!)</title>
       <link>https://blog.st3v3nhunt.me/posts/development/when-to-use-microservices/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
@@ -65,7 +65,7 @@
     </item>
     
     <item>
-      <title>Use personal Slack for GitHub notifications</title>
+      <title>:secret: Use personal Slack for GitHub notifications</title>
       <link>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</link>
       <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
       
@@ -74,7 +74,7 @@
     </item>
     
     <item>
-      <title>TeamCity Pipeline - iteration two</title>
+      <title>:tada: TeamCity Pipeline - iteration two</title>
       <link>https://blog.st3v3nhunt.me/posts/development/teacmity-pipeline-iteration-two/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -83,7 +83,7 @@
     </item>
     
     <item>
-      <title>Create branch based NuGet packages in TeamCity</title>
+      <title>:tanabata_tree: Create branch based NuGet packages in TeamCity</title>
       <link>https://blog.st3v3nhunt.me/posts/development/branch-based-nuget-packages-in-teacmity/</link>
       <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -92,7 +92,7 @@
     </item>
     
     <item>
-      <title>DIY Git remotes</title>
+      <title>:hammer: DIY Git remotes</title>
       <link>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</link>
       <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -101,25 +101,7 @@
     </item>
     
     <item>
-      <title>Git aliases</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/git-aliases/</link>
-      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.st3v3nhunt.me/posts/development/git-aliases/</guid>
-      <description>In order to provide a consistent development environment between team members as well as making it easier to do physical pair programming sharing a .</description>
-    </item>
-    
-    <item>
-      <title>How I work with Git</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</link>
-      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</guid>
-      <description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description>
-    </item>
-    
-    <item>
-      <title>TeamCity Build Pipeline</title>
+      <title>:gift: TeamCity Build Pipeline</title>
       <link>https://blog.st3v3nhunt.me/posts/development/teamcity-pipeline/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -128,7 +110,25 @@
     </item>
     
     <item>
-      <title>What lessons should one learn from the Gliffy outage?</title>
+      <title>:part_alternation_mark: Git aliases</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/git-aliases/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/git-aliases/</guid>
+      <description>In order to provide a consistent development environment between team members as well as making it easier to do physical pair programming sharing a .</description>
+    </item>
+    
+    <item>
+      <title>:thought_balloon: How I work with Git</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</guid>
+      <description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description>
+    </item>
+    
+    <item>
+      <title>:chart_with_downwards_trend: What lessons should one learn from the Gliffy outage?</title>
       <link>https://blog.st3v3nhunt.me/posts/development/gliffy-outage-lessons/</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
       
@@ -137,7 +137,7 @@
     </item>
     
     <item>
-      <title>How I work with Git and TFS</title>
+      <title>:confused: How I work with Git and TFS</title>
       <link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git-and-tfs/</link>
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       
@@ -146,7 +146,7 @@
     </item>
     
     <item>
-      <title>Interesting articles (week one)</title>
+      <title>👺 Interesting articles (week one)</title>
       <link>https://blog.st3v3nhunt.me/posts/development/interesting-articles/</link>
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       
@@ -155,7 +155,7 @@
     </item>
     
     <item>
-      <title>Hack day lite</title>
+      <title>:nut_and_bolt: Hack day lite</title>
       <link>https://blog.st3v3nhunt.me/posts/development/hack-day/</link>
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
@@ -164,7 +164,7 @@
     </item>
     
     <item>
-      <title>How to setup a simple Heroku pipeline</title>
+      <title>:wavy_dash: How to setup a simple Heroku pipeline</title>
       <link>https://blog.st3v3nhunt.me/posts/development/how-to-setup-a-simple-heroku-pipeline/</link>
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
@@ -173,7 +173,7 @@
     </item>
     
     <item>
-      <title>Fetch remote Git branches</title>
+      <title>:tanabata_tree: Fetch remote Git branches</title>
       <link>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</link>
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -182,16 +182,7 @@
     </item>
     
     <item>
-      <title>Are your commit messages insightful?</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</link>
-      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</guid>
-      <description>A good commit message is a hard thing to do.</description>
-    </item>
-    
-    <item>
-      <title>How much is an emoji worth</title>
+      <title>:dollar: How much is an emoji worth</title>
       <link>https://blog.st3v3nhunt.me/posts/development/how-much-is-an-emoji-worth/</link>
       <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
@@ -200,16 +191,16 @@
     </item>
     
     <item>
-      <title>Choosing a frontend JavaScript framework</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</link>
-      <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
+      <title>:mag: Are your commit messages insightful?</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</guid>
-      <description>The majority of my coding time is spent in the back-end, so to speak.</description>
+      <guid>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</guid>
+      <description>A good commit message is a hard thing to do.</description>
     </item>
     
     <item>
-      <title>Getting started with AngularJS</title>
+      <title>:straight_ruler: Getting started with AngularJS</title>
       <link>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</link>
       <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
       
@@ -218,7 +209,16 @@
     </item>
     
     <item>
-      <title>Prune remote git branches</title>
+      <title>:triangular_ruler: Choosing a frontend JavaScript framework</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</link>
+      <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</guid>
+      <description>The majority of my coding time is spent in the back-end, so to speak.</description>
+    </item>
+    
+    <item>
+      <title>:scissors: Prune remote git branches</title>
       <link>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
@@ -227,7 +227,7 @@
     </item>
     
     <item>
-      <title>Powershell snippets</title>
+      <title>:electric_plug: Powershell snippets</title>
       <link>https://blog.st3v3nhunt.me/posts/development/powershell-snippets/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
@@ -237,7 +237,7 @@
     </item>
     
     <item>
-      <title>Tips for using Trello</title>
+      <title>:card_index: Tips for using Trello</title>
       <link>https://blog.st3v3nhunt.me/posts/development/tips-for-using-trello/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       
@@ -246,7 +246,7 @@
     </item>
     
     <item>
-      <title>Dashed html attribute in C# view engine</title>
+      <title>:dash: Dashed html attribute in C# view engine</title>
       <link>https://blog.st3v3nhunt.me/posts/development/dashed-html-attribute-in-c-sharp-view-engine/</link>
       <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
       
@@ -255,7 +255,7 @@
     </item>
     
     <item>
-      <title>Do not use include near in count queries</title>
+      <title>:1234: Do not use include near in count queries</title>
       <link>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</link>
       <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
       
@@ -264,7 +264,7 @@
     </item>
     
     <item>
-      <title>Cumulative flow diagrams</title>
+      <title>:chart_with_upwards_trend: Cumulative flow diagrams</title>
       <link>https://blog.st3v3nhunt.me/posts/development/cumulative-flow-diagrams/</link>
       <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
       
@@ -273,7 +273,7 @@
     </item>
     
     <item>
-      <title>How do we work</title>
+      <title>:construction_worker: How do we work</title>
       <link>https://blog.st3v3nhunt.me/posts/development/how-do-we-work/</link>
       <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
       

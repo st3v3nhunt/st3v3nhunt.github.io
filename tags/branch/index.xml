@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/branch/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fetch remote Git branches</title>
+      <title>:tanabata_tree: Fetch remote Git branches</title>
       <link>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</link>
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Prune remote git branches</title>
+      <title>:scissors: Prune remote git branches</title>
       <link>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
