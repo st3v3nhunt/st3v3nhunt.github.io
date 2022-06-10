@@ -56,7 +56,27 @@ TeamCity.
 
 The PowerShell script I ended up with is:
 
-{{< gist st3v3nhunt 48a8009c03608b3870596cdae0e09da7 >}}
+```powershell { linenos=true }
+$output_dir = "%teamcity.build.workingDir%\%Generated nuget packages directory%"
+$properties = "Configuration=Release"
+
+Write-Host "Cleaning output directory: $output_dir"
+rm "$output_dir\*" -recurse
+
+If ("%teamcity.build.branch.is_default%" -eq $true)
+{
+  Write-Host "Package is versioned as release for branch: %teamcity.build.branch%"
+  $package_version = "1.0.%build.counter%"
+}
+Else
+{
+  Write-Host "Package versioned as pre-release for branch: %teamcity.build.branch%"
+  $patch_name = Get-Date -UFormat %%Y%%m%%d%%H%%M%%S
+  $package_version = "1.0.%build.counter%-pre$patch_name"
+}
+
+..\..\tools\NuGet.CommandLine.DEFAULT.nupkg\tools\NuGet.exe pack %teamcity.build.workingDir%\MySolution\MySolution.csproj -OutputDirectory $output_dir -Version $package_version -Properties $properties -IncludeReferencedProjects
+```
 
 The logic is straight forward enough, if the branch is determined to be the
 default one, create a package based on the build number e.g. `1.0.12`. If the

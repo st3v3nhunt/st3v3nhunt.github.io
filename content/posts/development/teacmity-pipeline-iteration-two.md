@@ -33,7 +33,49 @@ not be built, however, we felt the trade off is worth it.
 
 The script used is ostensibly the same as this:
 
-{{< gist st3v3nhunt 77cd9205772414576b8009ae195a963a >}}
+```powershell { linenos=true }
+<#
+Params:
+$current_build_sha = "%build.vcs.number%"
+$root_branch       = "%vcsroot.branch%"
+$is_default_branch = "%teamcity.build.branch.is_default%"
+$vcs_root_url      = "%GIT_ROOT_URL%"
+$private_token     = "%GIT_PRIVATE_TOKEN%"
+e.g. CheckForHistoryBuild.ps1 "%build.vcs.number%" "%vcsroot.branch%" "%teamcity.build.branch.is_default%" "%GIT_ROOT_URL%" "%GIT_PRIVATE_TOKEN%"
+#>
+param([String]$current_build_sha, [String]$root_branch, [String]$is_default_branch, [String]$vcsroot_url, [String]$private_token)
+
+If ($is_default_branch -eq $true)
+{
+  Write-Host "Branch is default. Pipeline continuing..."
+  exit 0
+}
+
+Write-Host "Get SHA-1 of the project's default branch ($default_branch_name) in order to compare to this build's SHA-1"
+Write-Host "If they are the same the build will not be continued"
+Write-Host "This is due to the build being a History Build (https://confluence.jetbrains.com/display/TCD9/History+Build)"
+Write-Host "And history builds create NuGet packages with old code"
+
+$default_branch_name = ($root_branch -split "/")[-1]
+$api_url = "https://$vcsroot_url/api/v3/projects/55/repository/branches/$default_branch_name`?private_token=$private_token
+$default_branch_api_response = Invoke-RestMethod $api_url
+$default_branch_sha = $default_branch_api_response.commit.id
+
+Write-Host "Call API @ $api_url"
+Write-Host "Default branch name: $default_branch_name"
+Write-Host "Master branch SHA-1: $default_branch_sha"
+Write-Host "Current branch SHA-1: $current_build_sha"
+
+If ($default_branch_sha -eq $current_build_sha)
+{
+  Write-Host "History build detected. Stopping pipeline..."
+  exit 1
+}
+Else
+{
+  Write-Host "New build. Pipeline continuing..."
+}
+```
 
 I have noticed the call out to the GitLab API is failing quite frequently. I
 will looking into making it more robust in the future but it can wait for the
@@ -55,7 +97,39 @@ The final change being to ignore errors during the deletion of the output
 directory.
 The new script is:
 
-{{< gist st3v3nhunt 54d3ce978e572ca5d00908c6db3ab351 >}}
+```powershell { linenos=true }
+<#
+Params:
+$working_dir = "%teamcity.build.workingDir%"
+$nuget_packages_dir = "%Generated nuget packages directory%"
+$is_default_branch = "%teamcity.build.branch.is_default%"
+$build_counter = "%build.counter%"
+e.g. CreateNuGetPackages.ps1 "%teamcity.build.workingDir%" "%Generated nuget packages directory%" "%teamcity.build.branch.is_default%" "%build.counter%"
+#>
+param([String]$working_dir, [String]$nuget_packages_dir, [String]$is_default_branch, [String]$build_counter)
+
+$output_dir = "$working_dir\$nuget_packages_dir"
+$properties = "Configuration=Release"
+
+Write-Host "Default branch detected: $is_default_branch"
+Write-Host "Build counter: $build_counter"
+
+Write-Host "Cleaning output directory: $output_dir"
+rm "$output_dir\*" -Recurse -ErrorAction Ignore
+
+If ($is_default_branch -eq $true)
+{
+  Write-Host "Package is versioned as release."
+  $package_version = "1.0.$build_counter"
+}
+Else
+{
+  Write-Host "Package versioned as pre-release."
+  $package_version = "1.0.$build_counter-prerelease"
+}
+
+..\..\tools\NuGet.CommandLine.DEFAULT.nupkg\tools\NuGet.exe pack $working_dir\MySolution\MySolution.csproj -OutputDirectory $output_dir -Version $package_version -Properties $properties -IncludeReferencedProjects
+```
 
 ## Moved PowerShell script out of TeamCity
 

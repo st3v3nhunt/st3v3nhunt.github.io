@@ -1,8 +1,8 @@
 ---
 title: "Git aliases"
 date: "2016-04-06"
-tags: [ "aliases", "development", "git" ]
-categories: [ "development" ]
+tags: ["aliases", "development", "git"]
+categories: ["development"]
 ---
 
 In order to provide a consistent development environment between team members
@@ -15,7 +15,21 @@ Git aliases are one of the easier consistencies to bring to a developer's
 machine. This is how you can achieve a shared `.gitconfig`.
 
 Add a `.gitconfig` to the repository. This is one I often start with.
-{{< gist st3v3nhunt 56e6d2f7edcaf4cca2ea1d60bc92fdc0 >}}
+
+```.gitconfig { linenos=true }
+[core]
+    autocrlf = true
+[alias]
+    st = status
+    hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+    ci = commit
+    com = checkout master
+    b = branch
+    cob = checkout -b
+    co = checkout
+[push]
+    default = simple
+```
 
 Once the `.gitconfig` is in the repo Git needs to be told to use it.
 
