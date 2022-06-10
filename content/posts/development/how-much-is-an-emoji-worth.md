@@ -14,11 +14,11 @@ is true, perhaps using emoji to add an extra level of information to your
 commit messages is a good idea? Even if it is not, I would recommend adding
 emoji to commit messages.
 
-Emoji add some :sparkles: to your commits. Looking back over the history has never been
-so colourful. A lot of source control web interfaces support emoji so having an
-emoji on every commit can brighten up the code home page of your project,
-possibly making it more attractive to potential contributors. And everybody
-likes the idea of more people working on their project, right?
+Emoji add some :sparkles: to your commits. Looking back over the history has
+never been so colourful. A lot of source control web interfaces support emoji
+so having an emoji on every commit can brighten up the code home page of your
+project, possibly making it more attractive to potential contributors. And
+everybody likes the idea of more people working on their project, right?
 
 ## How do I choose an appropriate emoji?
 

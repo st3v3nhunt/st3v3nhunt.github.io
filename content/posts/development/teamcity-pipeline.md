@@ -28,13 +28,13 @@ There are 6 build steps:
     - Clean & build the solution in release configuration
 3. Run
   [Duplicates Finder](https://confluence.jetbrains.com/pages/viewpage.action?pageId=74847275):
-    * Include `**/*.cs`
-    * Exclude `**/*.Tests` and `**/Properties`
+    - Include `**/*.cs`
+    - Exclude `**/*.Tests` and `**/Properties`
 4. Run [FxCop](https://confluence.jetbrains.com/display/TCD9/FxCop):
-    * Include `**/bin/Release/*.dll`
-    * Exclude `**Tests**`
+    - Include `**/bin/Release/*.dll`
+    - Exclude `**Tests**`
 5. Run [NUnit](https://confluence.jetbrains.com/display/TCD9/NUnit) tests.
-    * Include
+    - Include
     [JetBrains dotCover](https://confluence.jetbrains.com/display/TCD9/JetBrains+dotCover)
     code coverage
 6. [Package](https://confluence.jetbrains.com/display/TCD9/NuGet+Pack) the
@@ -49,10 +49,10 @@ I do love an automated check. And those checks are even better when they are
 done for all MRs before anybody has spent any time eyeballing them. In order to
 get TeamCity and GitLab to communicate together I did this:
 
-* In GitLab I went into the project's Settings `-->` Services `-->` JetBrains
+- In GitLab I went into the project's Settings `-->` Services `-->` JetBrains
   TeamCity CI screen. I completed the form for the TeamCity server I wanted to
   integrate with.
-* As instructed on the form in GitLab I went to TeamCity and set the Build
+- As instructed on the form in GitLab I went to TeamCity and set the Build
   number format to `%build.vcs.number%`.
 
 That is it. Now all branches trigger a build in TeamCity and MRs have the
@@ -65,12 +65,12 @@ conditions. For this pipeline I have additional failure conditions as well as
 the standard of any failing tests and non-zero exit codes. The additional
 failure conditions are:
 
-* Fail build if build duration (secs) is different by at least 50% compared to
+- Fail build if build duration (secs) is different by at least 50% compared to
   the last successful build
-* Fail build if artifacts size (bytes) is different by at least 50% compared to
+- Fail build if artifacts size (bytes) is different by at least 50% compared to
   the last successful build
-* Fail build if number of ignored tests is more than 0
-* Fail build if number of tests is less by at least 20% compared to the last
+- Fail build if number of ignored tests is more than 0
+- Fail build if number of tests is less by at least 20% compared to the last
   successful build
 
 Some of those criteria are probably a little on the 'kind' side and will not be

@@ -13,7 +13,7 @@ staging environment and a manual stage for promoting to the production
 environment. Pretty much a bread and butter pipeline.
 _(This is an image heavy post)_
 
-### Pre-requisites:
+### Pre-requisites
 
 * Existing Node.js app hosted in GitHub (it doesn't need to be GitHub. Dropbox
   and local git repos are supported by Heroku but pipelines have special
@@ -22,10 +22,9 @@ _(This is an image heavy post)_
   I used.
 * An Heroku account (obvs 😉).
 
+## Setting up the pipeline
 
-## Setting up the pipeline:
-
-### An app for staging and review apps for pull requests.
+### An app for staging and review apps for pull requests
 
 I started by creating a new app in Heroku. I named it
 `name-not-in-use-staging`, note the end of the name i.e. `-staging`. I did this
@@ -68,7 +67,6 @@ Selecting to `Enable Review Apps` pops up this screen:
 
 Where I opt for creating a review app for every pull request automatically.
 
-
 When review apps are configured the pipeline will look like this:
 ![Review apps setup in pipeline](/images/pipelines/pipeline-with-review-apps.png)
 
@@ -85,10 +83,8 @@ this step I have assigned the app to the production slot within the pipeline.
 
 ![Create production app](/images/pipelines/create-second-app-add-to-pipeline-prod.png)
 
-
 The pipeline is now complete. It will look something like this:
 ![Bare bones pipeline setup](/images/pipelines/bare-bones-pipeline-no-deployments.png)
-
 
 ## Pipeline in action
 
