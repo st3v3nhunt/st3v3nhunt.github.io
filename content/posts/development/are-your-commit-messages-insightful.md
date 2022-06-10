@@ -1,5 +1,5 @@
 ---
-title: ":mag: Are your commit messages insightful?"
+title: "🔎 Are your commit messages insightful?"
 date: "2015-10-13"
 tags: [ "commits", "development", "practices", "sourcecontrol" ]
 categories: [ "development" ]

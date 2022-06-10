@@ -1,5 +1,5 @@
 ---
-title: ":electric_plug: Powershell snippets"
+title: "🔌 Powershell snippets"
 date: "2015-07-15"
 modified: "2016-02-18"
 tags: [ "agile", "development", "powershell", "tips" ]

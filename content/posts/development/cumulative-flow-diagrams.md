@@ -1,5 +1,5 @@
 ---
-title: ":chart_with_upwards_trend: Cumulative flow diagrams"
+title: "📈 Cumulative flow diagrams"
 date: "2013-09-13"
 tags: [ "agile", "development" ]
 categories: [ "development" ]

@@ -1,5 +1,5 @@
 ---
-title: ":thought_balloon: How I work with Git"
+title: "🤔 How I work with Git"
 date: "2016-04-06"
 tags: [ "development", "git", "github", "gitlab" ]
 categories: [ "development" ]

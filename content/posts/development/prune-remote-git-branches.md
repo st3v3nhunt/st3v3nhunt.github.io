@@ -1,5 +1,5 @@
 ---
-title: ":scissors: Prune remote git branches"
+title: "✂️  Prune remote git branches"
 date: "2015-07-23"
 tags: [ "branch", "development", "git", "prune" ]
 categories: [ "development" ]

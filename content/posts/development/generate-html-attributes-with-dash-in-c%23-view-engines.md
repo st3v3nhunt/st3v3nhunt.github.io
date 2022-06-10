@@ -1,5 +1,5 @@
 ---
-title: ":dash: Dashed html attribute in C# view engine"
+title: "〰️ Dashed html attribute in C# view engine"
 slug: "Dashed html attribute in C Sharp view engine"
 date: "2014-09-04"
 tags: [ "c#", "development", "razor" ]

@@ -1,5 +1,5 @@
 ---
-title: ":hammer: DIY Git remotes"
+title: "🔨 DIY Git remotes"
 date: "2016-04-12"
 tags: [ "development", "git", "tfs", "vcs", "ways-of-working" ]
 categories: [ "development" ]

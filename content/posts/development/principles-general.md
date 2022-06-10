@@ -1,5 +1,5 @@
 ---
-title: ":golf: General working principles"
+title: "💭 General working principles"
 date: "2021-03-04"
 tags: [ "principles", "development", "practices" ]
 categories: [ "development" ]

@@ -1,5 +1,5 @@
 ---
-title: ":card_index: Tips for using Trello"
+title: "📇 Tips for using Trello"
 date: "2015-06-18"
 tags: [ "trello", "tips", "agile", "development" ]
 categories: [ "development" ]

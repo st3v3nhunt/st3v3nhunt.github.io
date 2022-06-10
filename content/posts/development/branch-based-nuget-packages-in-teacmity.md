@@ -1,5 +1,5 @@
 ---
-title: ":tanabata_tree: Create branch based NuGet packages in TeamCity"
+title: "🎋 Create branch based NuGet packages in TeamCity"
 date: "2016-04-13"
 modified: "2016-04-18"
 tags: [ "ci", "development", "gitlab", "teamcity" ]

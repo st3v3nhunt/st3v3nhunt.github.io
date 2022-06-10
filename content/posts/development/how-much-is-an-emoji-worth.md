@@ -1,5 +1,5 @@
 ---
-title: ":dollar: How much is an emoji worth"
+title: "💵 How much is an emoji worth"
 date: "2015-10-13"
 tags: [ "agile", "development", "emoji", "git" ]
 categories: [ "development" ]

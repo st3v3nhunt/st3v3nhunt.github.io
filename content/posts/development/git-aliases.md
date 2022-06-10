@@ -1,5 +1,5 @@
 ---
-title: ":part_alternation_mark: Git aliases"
+title: "〽️ Git aliases"
 date: "2016-04-06"
 tags: ["aliases", "development", "git"]
 categories: ["development"]

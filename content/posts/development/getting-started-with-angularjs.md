@@ -1,5 +1,5 @@
 ---
-title: ":straight_ruler: Getting started with AngularJS"
+title: "📏 Getting started with AngularJS"
 date: "2015-09-09"
 tags: [ "angularjs", "development", "frontend", "javascript" ]
 categories: [ "development" ]
