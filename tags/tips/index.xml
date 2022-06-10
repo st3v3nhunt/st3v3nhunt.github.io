@@ -12,20 +12,20 @@
     <lastBuildDate>Wed, 15 Jul 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔌 Powershell snippets</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/powershell-snippets/</link>
+      <link>https://blog.st3v3nhunt.me/posts/powershell-snippets/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/powershell-snippets/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/powershell-snippets/</guid>
       <description>A collection of Powershell snippets I have found useful.
  Set the title of the window:  (Get-Host).</description>
     </item>
     
     <item>
       <title>📇 Tips for using Trello</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/tips-for-using-trello/</link>
+      <link>https://blog.st3v3nhunt.me/posts/tips-for-using-trello/</link>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/tips-for-using-trello/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/tips-for-using-trello/</guid>
       <description>The team I work in uses Trello to visualise our work.</description>
     </item>
     

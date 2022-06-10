@@ -12,28 +12,28 @@
     <lastBuildDate>Thu, 28 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/ci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🎉 TeamCity Pipeline - iteration two</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/teacmity-pipeline-iteration-two/</link>
+      <link>https://blog.st3v3nhunt.me/posts/teacmity-pipeline-iteration-two/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/teacmity-pipeline-iteration-two/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/teacmity-pipeline-iteration-two/</guid>
       <description>Now I have had the TeamCity build pipeline running for a while I have had chance to review how it works.</description>
     </item>
     
     <item>
       <title>🎋 Create branch based NuGet packages in TeamCity</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/branch-based-nuget-packages-in-teacmity/</link>
+      <link>https://blog.st3v3nhunt.me/posts/branch-based-nuget-packages-in-teacmity/</link>
       <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/branch-based-nuget-packages-in-teacmity/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/branch-based-nuget-packages-in-teacmity/</guid>
       <description>As I was reviewing the TeamCity build configuration I&amp;rsquo;d setup with my colleagues, it was pointed out every build was creating a new NuGet package.</description>
     </item>
     
     <item>
       <title>🎁 TeamCity Build Pipeline</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/teamcity-pipeline/</link>
+      <link>https://blog.st3v3nhunt.me/posts/teamcity-pipeline/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/teamcity-pipeline/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/teamcity-pipeline/</guid>
       <description>It has been a while since I setup a build configuration in TeamCity.</description>
     </item>
     

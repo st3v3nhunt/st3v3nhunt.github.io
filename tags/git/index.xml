@@ -12,64 +12,64 @@
     <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔨 DIY Git remotes</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</link>
+      <link>https://blog.st3v3nhunt.me/posts/diy-git-remote/</link>
       <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/diy-git-remote/</guid>
       <description>Working with a non-cloud hosted Git remote I often work in environments where the code is centrally stored in TFS.</description>
     </item>
     
     <item>
       <title>〽️ Git aliases</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/git-aliases/</link>
+      <link>https://blog.st3v3nhunt.me/posts/git-aliases/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/git-aliases/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/git-aliases/</guid>
       <description>In order to provide a consistent development environment between team members as well as making it easier to do physical pair programming sharing a .</description>
     </item>
     
     <item>
       <title>🤔 How I work with Git</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</link>
+      <link>https://blog.st3v3nhunt.me/posts/how-i-work-with-git/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/how-i-work-with-git/</guid>
       <description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description>
     </item>
     
     <item>
       <title>😕 How I work with Git and TFS</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git-and-tfs/</link>
+      <link>https://blog.st3v3nhunt.me/posts/how-i-work-with-git-and-tfs/</link>
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git-and-tfs/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/how-i-work-with-git-and-tfs/</guid>
       <description>This post has been one I&amp;rsquo;ve been meaning to write for months and months.</description>
     </item>
     
     <item>
       <title>🎋 Fetch remote Git branches</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</link>
+      <link>https://blog.st3v3nhunt.me/posts/fetch-remote-git-branches/</link>
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/fetch-remote-git-branches/</guid>
       <description>After having added a new remote to my local git repository via git remote add other-remote git@github.</description>
     </item>
     
     <item>
       <title>💵 How much is an emoji worth</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/how-much-is-an-emoji-worth/</link>
+      <link>https://blog.st3v3nhunt.me/posts/how-much-is-an-emoji-worth/</link>
       <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/how-much-is-an-emoji-worth/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/how-much-is-an-emoji-worth/</guid>
       <description>I have written a bit about how to make your commit messages more insightful.</description>
     </item>
     
     <item>
       <title>✂️  Prune remote git branches</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</link>
+      <link>https://blog.st3v3nhunt.me/posts/prune-remote-git-branches/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/prune-remote-git-branches/</guid>
       <description>Using git branch -r to check the list of branches on the remote can often lead to a long list of branches making it difficult to tell which are active e.</description>
     </item>
     

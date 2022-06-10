@@ -12,19 +12,19 @@
     <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/branch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🎋 Fetch remote Git branches</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</link>
+      <link>https://blog.st3v3nhunt.me/posts/fetch-remote-git-branches/</link>
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/fetch-remote-git-branches/</guid>
       <description>After having added a new remote to my local git repository via git remote add other-remote git@github.</description>
     </item>
     
     <item>
       <title>✂️  Prune remote git branches</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</link>
+      <link>https://blog.st3v3nhunt.me/posts/prune-remote-git-branches/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/prune-remote-git-branches/</guid>
       <description>Using git branch -r to check the list of branches on the remote can often lead to a long list of branches making it difficult to tell which are active e.</description>
     </item>
     

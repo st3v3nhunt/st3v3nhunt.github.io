@@ -12,10 +12,10 @@
     <lastBuildDate>Wed, 26 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔢 Do not use include near in count queries</title>
-      <link>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</link>
+      <link>https://blog.st3v3nhunt.me/posts/do-not-include-near-in-count-queries/</link>
       <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</guid>
+      <guid>https://blog.st3v3nhunt.me/posts/do-not-include-near-in-count-queries/</guid>
       <description>Using MongoDB to build an API providing some search and filtering functionality.</description>
     </item>
     
