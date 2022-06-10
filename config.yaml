@@ -7,18 +7,15 @@ title: A blog by st3v3nhunt
 
 menu:
   main:
-    - name: Archive
-      url: archives/
+    - name: Posts
+      url: posts/
       weight: 5
-    - name: Categories
-      url: categories/
-      weight: 10
-    - name: Search
-      url: search/
-      weight: 10
     - name: Tags
       url: tags/
       weight: 10
+    - name: Search
+      url: search/
+      weight: 15
 
 outputs:
   home:
