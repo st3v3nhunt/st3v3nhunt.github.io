@@ -13,6 +13,9 @@ menu:
     - name: Tags
       url: tags/
       weight: 10
+    - name: TIL
+      url: til/
+      weight: 10
     - name: Search
       url: search/
       weight: 15
@@ -87,6 +90,8 @@ params:
         url: posts
       - name: Tags
         url: tags
+      - name: TIL
+        url: til
 
   # home-info mode
   homeInfoParams:

@@ -19,13 +19,19 @@ git submodule update --init --recursive
 
 ## Workflow
 
-1. Create new posts manually or via Hugo's CLI e.g.
-[`hugo new`](https://gohugo.io/commands/hugo_new/).
+1. Create new posts manually or via Hugo's CLI
+  [`hugo new`](https://gohugo.io/commands/hugo_new/). A new development post is
+  created by default e.g. `hugo new Title-of-new-post` creates a post with the
+  specified and hyphens replaced with spaces.
 
 1. Run the site locally (to check the content) via `hugo server`.
 
 1. When happy with the new content, push the changes to the remote. GitHub
    Actions will generate the content into `./public` on the `gh-pages` branch.
+
+There is another post archetype, a `til` (things/today I learnt). To
+create this run `hugo new til/<title-of-post>`. The front matter is different
+from development posts. All `til`s can be found under `/til`.
 
 ## Notes
 

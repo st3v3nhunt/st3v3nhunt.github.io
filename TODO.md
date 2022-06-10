@@ -1,4 +1,3 @@
-To do:
-======
+# To do
 
-* Add new posts...
+- Add new posts...
