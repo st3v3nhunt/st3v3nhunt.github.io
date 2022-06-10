@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/daily-updates/</loc>
-    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.st3v3nhunt.me/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url>
@@ -43,8 +38,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/daily-updates/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,8 +48,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/app-specific-domain-names-for-local-dev/</loc>
-    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,12 +63,17 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/principles-general/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/app-specific-domain-names-for-local-dev/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.st3v3nhunt.me/tags/principles/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/posts/development/principles-general/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -85,11 +85,6 @@
   <url>
     <loc>https://blog.st3v3nhunt.me/posts/development/when-to-use-microservices/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</loc>
-    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -108,8 +103,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/teacmity-pipeline-iteration-two/</loc>
-    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/use-personal-slack-for-github-notifications/</loc>
+    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,13 +123,13 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/branch-based-nuget-packages-in-teacmity/</loc>
-    <lastmod>2016-04-18T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/teacmity-pipeline-iteration-two/</loc>
+    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</loc>
-    <lastmod>2016-04-12T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/branch-based-nuget-packages-in-teacmity/</loc>
+    <lastmod>2016-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -158,7 +153,12 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/teamcity-pipeline/</loc>
+    <loc>https://blog.st3v3nhunt.me/posts/development/diy-git-remote/</loc>
+    <lastmod>2016-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/aliases/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,18 +168,13 @@
   </url>
   
   <url>
+    <loc>https://blog.st3v3nhunt.me/posts/development/teamcity-pipeline/</loc>
+    <lastmod>2016-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/aliases/</loc>
-    <lastmod>2016-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/gliffy-outage-lessons/</loc>
-    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -193,8 +188,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git-and-tfs/</loc>
-    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/gliffy-outage-lessons/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -218,13 +213,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/hack-day/</loc>
-    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/how-to-setup-a-simple-heroku-pipeline/</loc>
-    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/how-i-work-with-git-and-tfs/</loc>
+    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,8 +243,13 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</loc>
-    <lastmod>2016-01-19T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/hack-day/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/posts/development/how-to-setup-a-simple-heroku-pipeline/</loc>
+    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -268,13 +263,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/how-much-is-an-emoji-worth/</loc>
-    <lastmod>2015-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</loc>
-    <lastmod>2015-10-13T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/fetch-remote-git-branches/</loc>
+    <lastmod>2016-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -293,13 +283,13 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</loc>
-    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/how-much-is-an-emoji-worth/</loc>
+    <lastmod>2015-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</loc>
-    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</loc>
+    <lastmod>2015-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -318,8 +308,13 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/getting-started-with-angularjs/</loc>
+    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/posts/development/choosing-a-front-end-javascript-framework/</loc>
+    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -328,8 +323,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/powershell-snippets/</loc>
-    <lastmod>2016-02-18T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/prune-remote-git-branches/</loc>
+    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -343,8 +338,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/tips-for-using-trello/</loc>
-    <lastmod>2015-06-18T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/powershell-snippets/</loc>
+    <lastmod>2016-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -353,8 +348,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/dashed-html-attribute-in-c-sharp-view-engine/</loc>
-    <lastmod>2014-09-04T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/tips-for-using-trello/</loc>
+    <lastmod>2015-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -368,12 +363,17 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</loc>
-    <lastmod>2014-02-26T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/posts/development/dashed-html-attribute-in-c-sharp-view-engine/</loc>
+    <lastmod>2014-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.st3v3nhunt.me/tags/mongodb/</loc>
+    <lastmod>2014-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/posts/development/do-not-include-near-in-count-queries/</loc>
     <lastmod>2014-02-26T00:00:00+00:00</lastmod>
   </url>
   
