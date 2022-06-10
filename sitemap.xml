@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.st3v3nhunt.me/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +19,6 @@
   
   <url>
     <loc>https://blog.st3v3nhunt.me/tags/commits/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -380,10 +380,6 @@
   <url>
     <loc>https://blog.st3v3nhunt.me/posts/development/how-do-we-work/</loc>
     <lastmod>2013-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/archives/</loc>
   </url>
   
   <url>
