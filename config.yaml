@@ -30,7 +30,6 @@ outputs:
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-pygmentsUseClasses: true
 
 minify:
   disableXML: true
@@ -70,6 +69,7 @@ params:
   tocopen: false
 
   assets:
+    disableHLJS: false
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
