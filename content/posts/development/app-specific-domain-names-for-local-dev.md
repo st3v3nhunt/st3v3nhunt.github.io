@@ -42,7 +42,7 @@ required. A good option is to create domain names on the development machine,
 one for each web app. To do so, entries can be added into the machine's
 [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) e.g.
 
-```sh
+```shell
 127.0.0.1 admin-web.localhost
 127.0.0.1 super-user-web.localhost
 127.0.0.1 user-web.localhost

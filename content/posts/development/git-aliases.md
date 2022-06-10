@@ -21,7 +21,7 @@ Once the `.gitconfig` is in the repo Git needs to be told to use it.
 
 To do that add:
 
-```
+```.gitconfig
 [include]
   path = ../.gitconfig
 ```

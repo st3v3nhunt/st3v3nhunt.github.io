@@ -20,13 +20,11 @@ A collection of Powershell snippets I have found useful.
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
 ```
 
-
 * Delete all files/folders without confirmation messages:
 
 ```powershell
 rm -r -force .\path\to\dir
 ```
-
 
 * List all environment variables with `Get-ChildItem` and its' aliases:
 
@@ -36,7 +34,6 @@ gci Env:
 dir Env:
 ls Env:
 ```
-
 
 * Get specific environment variable using the `Path` as an example. The first
   option returns just the value whereas the second returns it in a table
