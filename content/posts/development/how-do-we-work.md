@@ -1,5 +1,5 @@
 ---
-title: "How do we work"
+title: ":construction_worker: How do we work"
 date: "2013-09-13"
 tags: [ "agile", "development" ]
 categories: [ "development" ]

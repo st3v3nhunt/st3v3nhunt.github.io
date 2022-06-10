@@ -1,5 +1,5 @@
 ---
-title: "Fetch remote Git branches"
+title: ":tanabata_tree: Fetch remote Git branches"
 date: "2016-01-19"
 tags: [ "branch", "development", "fetch", "git" ]
 categories: [ "development" ]

@@ -1,5 +1,5 @@
 ---
-title: "How to setup a simple Heroku pipeline"
+title: ":wavy_dash: How to setup a simple Heroku pipeline"
 date: "2016-02-03"
 modified: "2016-02-04"
 tags: [ "cd", "development", "heroku", "pipelines", "practices" ]

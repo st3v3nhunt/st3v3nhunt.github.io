@@ -1,5 +1,5 @@
 ---
-title: "Hack day lite"
+title: ":nut_and_bolt: Hack day lite"
 date: "2016-02-03"
 modified: "2016-03-30"
 tags: [ "development", "hackday", "nhs", "practices" ]

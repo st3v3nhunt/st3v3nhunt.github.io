@@ -1,5 +1,5 @@
 ---
-title: "Use personal Slack for GitHub notifications"
+title: ":secret: Use personal Slack for GitHub notifications"
 date: "2016-07-12"
 tags: [ "development", "github", "slack", "notifications" ]
 categories: [ "development" ]

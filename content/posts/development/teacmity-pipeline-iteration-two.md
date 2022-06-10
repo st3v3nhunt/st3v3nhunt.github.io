@@ -1,5 +1,5 @@
 ---
-title: "TeamCity Pipeline - iteration two"
+title: ":tada: TeamCity Pipeline - iteration two"
 date: "2016-04-28"
 tags: [ "ci", "development", "gitlab", "teamcity" ]
 categories: [ "development" ]

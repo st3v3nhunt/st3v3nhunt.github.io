@@ -1,5 +1,5 @@
 ---
-title: "Interesting articles (week one)"
+title: "👺 Interesting articles (week one)"
 date: "2016-03-29"
 tags: [ "development", "interesting-articles", "meta" ]
 categories: [ "development" ]

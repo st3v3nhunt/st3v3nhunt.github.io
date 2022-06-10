@@ -1,5 +1,5 @@
 ---
-title: TeamCity Build Pipeline
+title: ":gift: TeamCity Build Pipeline"
 date: "2016-04-06"
 tags: [ "ci", "development", "gitlab", "teamcity" ]
 categories: [ "development" ]
