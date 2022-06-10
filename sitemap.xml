@@ -3,47 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.st3v3nhunt.me/posts/development/daily-updates/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/categories/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/commits/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/development/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/categories/development/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/posts/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/categories/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/commits/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/development/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/categories/development/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.st3v3nhunt.me/tags/guidance/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/posts/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url>
   

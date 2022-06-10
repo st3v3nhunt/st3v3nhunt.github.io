@@ -9,7 +9,16 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/commits/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/commits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>:calendar: Daily updates</title>
+      <link>https://blog.st3v3nhunt.me/posts/development/daily-updates/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/development/daily-updates/</guid>
+      <description>Intro Teams often have a daily catch-up, often referred to as a stand-up, where an update is provided by each member of the team.</description>
+    </item>
+    
     <item>
       <title>:sound: Communicating changes in PRs</title>
       <link>https://blog.st3v3nhunt.me/posts/development/communicating-changes-in-prs/</link>
@@ -20,7 +29,7 @@
     </item>
     
     <item>
-      <title>Are Your Commit Messages Insightful?</title>
+      <title>Are your commit messages insightful?</title>
       <link>https://blog.st3v3nhunt.me/posts/development/are-your-commit-messages-insightful/</link>
       <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
