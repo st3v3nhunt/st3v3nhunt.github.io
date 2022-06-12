@@ -12,10 +12,10 @@
     <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🐚 Source and export all vars from a file</title>
-      <link>https://blog.st3v3nhunt.me/til/shell/title-here/</link>
+      <link>https://blog.st3v3nhunt.me/til/shell/source-and-export-all-vars-from-a-file/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.st3v3nhunt.me/til/shell/title-here/</guid>
+      <guid>https://blog.st3v3nhunt.me/til/shell/source-and-export-all-vars-from-a-file/</guid>
       <description>If you ever need to load a bunch of env vars into an environment it is easily accomplished by having them listed in a .</description>
     </item>
     
