@@ -4,12 +4,42 @@
   
   <url>
     <loc>https://blog.st3v3nhunt.me/</loc>
-    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.st3v3nhunt.me/categories/</loc>
-    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/shell/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/shell/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/shell/useful-bash-builtins/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,21 +49,6 @@
   
   <url>
     <loc>https://blog.st3v3nhunt.me/til/ripgrep/</loc>
-    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/</loc>
-    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/til/</loc>
-    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
     <lastmod>2022-06-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,16 +74,6 @@
   
   <url>
     <loc>https://blog.st3v3nhunt.me/posts/</loc>
-    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/til/shell/</loc>
-    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/shell/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
   </url>
   
