@@ -37,5 +37,14 @@
       <description>It has been a while since I setup a build configuration in TeamCity.</description>
     </item>
     
+    <item>
+      <title>〰️ How to setup a simple Heroku pipeline</title>
+      <link>https://blog.st3v3nhunt.me/posts/how-to-setup-a-simple-heroku-pipeline/</link>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/how-to-setup-a-simple-heroku-pipeline/</guid>
+      <description>Pipelines in Heroku are pretty awesome. This is how I went about setting up a Node.</description>
+    </item>
+    
   </channel>
 </rss>
