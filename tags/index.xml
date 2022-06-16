@@ -9,7 +9,16 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git</title>
+      <link>https://blog.st3v3nhunt.me/tags/git/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/tags/git/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>shell</title>
       <link>https://blog.st3v3nhunt.me/tags/shell/</link>
@@ -124,15 +133,6 @@
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/tags/teamcity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://blog.st3v3nhunt.me/tags/git/</link>
-      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.st3v3nhunt.me/tags/git/</guid>
       <description></description>
     </item>
     

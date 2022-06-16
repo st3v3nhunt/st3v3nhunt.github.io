@@ -9,7 +9,16 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📓 Get last Git commit message</title>
+      <link>https://blog.st3v3nhunt.me/til/git/get-last-commit-message/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/til/git/get-last-commit-message/</guid>
+      <description>In a Git repo run git log -1 to get details of the last commit.</description>
+    </item>
+    
     <item>
       <title>🔨 DIY Git remotes</title>
       <link>https://blog.st3v3nhunt.me/posts/diy-git-remote/</link>
