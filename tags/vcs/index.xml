@@ -19,5 +19,14 @@
       <description>Working with a non-cloud hosted Git remote I often work in environments where the code is centrally stored in TFS.</description>
     </item>
     
+    <item>
+      <title>🔎 Are your commit messages insightful?</title>
+      <link>https://blog.st3v3nhunt.me/posts/are-your-commit-messages-insightful/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/are-your-commit-messages-insightful/</guid>
+      <description>A good commit message is a hard thing to do.</description>
+    </item>
+    
   </channel>
 </rss>
