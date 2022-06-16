@@ -1,7 +1,7 @@
 ---
 title: "🔢 Do not use include near in count queries"
 date: "2014-02-26"
-tags: [ "c#", "development", "mongodb" ]
+tags: [ "c#", "mongodb" ]
 categories: [ "development" ]
 highlight: true
 ---

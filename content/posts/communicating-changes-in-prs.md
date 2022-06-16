@@ -1,7 +1,7 @@
 ---
 title: "🔊 Communicating changes in PRs"
 date: "2022-06-09"
-tags: [ "commits", "development", "guidance" ]
+tags: [ "commits", "guidance" ]
 categories: [ "development" ]
 ---
 

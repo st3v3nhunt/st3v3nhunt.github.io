@@ -1,7 +1,7 @@
 ---
 title: "📈 Cumulative flow diagrams"
 date: "2013-09-13"
-tags: [ "agile", "development" ]
+tags: [ "agile" ]
 categories: [ "development" ]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "🗓️  Daily updates"
 date: "2022-06-10"
-tags: [ "commits", "development" ]
+tags: [ "commits" ]
 categories: [ "development" ]
 ---
 

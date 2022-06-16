@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | humanize }}"
 date: {{ .Date }}
-tags: [ "development" ]
+tags: [ ]
 categories: [ "development" ]
 draft: true
 ---

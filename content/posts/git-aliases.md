@@ -1,7 +1,7 @@
 ---
 title: "〽️ Git aliases"
 date: "2016-04-06"
-tags: ["aliases", "development", "git"]
+tags: ["aliases", "git"]
 categories: ["development"]
 ---
 

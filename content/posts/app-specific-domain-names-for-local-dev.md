@@ -1,7 +1,7 @@
 ---
 title: "🖥️  App specific domain names for local dev"
 date: 2021-09-24
-tags: [ "development", "practices", "microservices" ]
+tags: [ "practices", "microservices" ]
 categories: [ "development" ]
 ---
 

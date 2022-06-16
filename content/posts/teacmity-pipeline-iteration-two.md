@@ -1,7 +1,7 @@
 ---
 title: "🎉 TeamCity Pipeline - iteration two"
 date: "2016-04-28"
-tags: [ "ci", "development", "gitlab", "teamcity" ]
+tags: [ "ci", "gitlab", "teamcity" ]
 categories: [ "development" ]
 ---
 

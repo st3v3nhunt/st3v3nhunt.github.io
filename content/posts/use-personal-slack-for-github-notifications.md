@@ -1,7 +1,7 @@
 ---
 title: "🏦 Use personal Slack for GitHub notifications"
 date: "2016-07-12"
-tags: [ "development", "github", "slack", "notifications" ]
+tags: [ "github", "slack", "notifications" ]
 categories: [ "development" ]
 ---
 

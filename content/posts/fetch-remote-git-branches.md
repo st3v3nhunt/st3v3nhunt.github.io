@@ -1,7 +1,7 @@
 ---
 title: "🎋 Fetch remote Git branches"
 date: "2016-01-19"
-tags: [ "branch", "development", "fetch", "git" ]
+tags: [ "branch", "fetch", "git" ]
 categories: [ "development" ]
 ---
 

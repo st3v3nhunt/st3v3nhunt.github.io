@@ -1,7 +1,7 @@
 ---
 title: "📇 Tips for using Trello"
 date: "2015-06-18"
-tags: [ "trello", "tips", "agile", "development" ]
+tags: [ "trello", "tips", "agile" ]
 categories: [ "development" ]
 ---
 

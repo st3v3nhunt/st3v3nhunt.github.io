@@ -2,7 +2,7 @@
 title: "🔌 Powershell snippets"
 date: "2015-07-15"
 modified: "2016-02-18"
-tags: [ "agile", "development", "powershell", "tips" ]
+tags: [ "agile", "powershell", "tips" ]
 categories: [ "development" ]
 ---
 

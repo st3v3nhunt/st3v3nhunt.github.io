@@ -1,7 +1,7 @@
 ---
 title: "🤔 How I work with Git"
 date: "2016-04-06"
-tags: [ "development", "git", "github", "gitlab" ]
+tags: [ "git", "github", "gitlab" ]
 categories: [ "development" ]
 ---
 

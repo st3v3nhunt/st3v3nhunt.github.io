@@ -1,7 +1,7 @@
 ---
 title: "✂️  Prune remote git branches"
 date: "2015-07-23"
-tags: [ "branch", "development", "git", "prune" ]
+tags: [ "branch", "git", "prune" ]
 categories: [ "development" ]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "📐 Choosing a frontend JavaScript framework"
 date: "2015-09-09"
-tags: [ "angularjs", "development", "frontend", "javascript" ]
+tags: [ "angularjs", "frontend", "javascript" ]
 categories: [ "development" ]
 ---
 

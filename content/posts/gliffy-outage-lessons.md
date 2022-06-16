@@ -1,7 +1,7 @@
 ---
 title: "📉 What lessons should one learn from the Gliffy outage?"
 date: "2016-03-30"
-tags: [ "development", "lessons", "sass" ]
+tags: [ "lessons", "sass" ]
 categories: [ "development" ]
 ---
 

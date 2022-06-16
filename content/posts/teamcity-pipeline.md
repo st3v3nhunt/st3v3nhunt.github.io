@@ -1,7 +1,7 @@
 ---
 title: "🎁 TeamCity Build Pipeline"
 date: "2016-04-06"
-tags: [ "ci", "development", "gitlab", "teamcity" ]
+tags: [ "ci", "gitlab", "teamcity" ]
 categories: [ "development" ]
 ---
 
