@@ -5,8 +5,6 @@ tags: [ "commits" ]
 categories: [ "development" ]
 ---
 
-## Intro
-
 Teams often have a daily catch-up, often referred to as a stand-up, where an
 update is provided by each member of the team. The standard approach to the
 daily updates is a 15 minute meeting where participants answer three questions:
