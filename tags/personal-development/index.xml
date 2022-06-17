@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>personal development on A blog by st3v3nhunt</title>
+    <link>https://blog.st3v3nhunt.me/tags/personal-development/</link>
+    <description>Recent content in personal development on A blog by st3v3nhunt</description>
+    <image>
+      <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/personal-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📢 Keep a brag document</title>
+      <link>https://blog.st3v3nhunt.me/posts/keep-a-brag-doc/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/keep-a-brag-doc/</guid>
+      <description>Over the years I&amp;rsquo;ve tried to keep a record of what I&amp;rsquo;ve done in some form or other.</description>
+    </item>
+    
+  </channel>
+</rss>

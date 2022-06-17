@@ -9,7 +9,16 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📢 Keep a brag document</title>
+      <link>https://blog.st3v3nhunt.me/posts/keep-a-brag-doc/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/keep-a-brag-doc/</guid>
+      <description>Over the years I&amp;rsquo;ve tried to keep a record of what I&amp;rsquo;ve done in some form or other.</description>
+    </item>
+    
     <item>
       <title>📓 Get last Git commit message</title>
       <link>https://blog.st3v3nhunt.me/til/git/get-last-commit-message/</link>
@@ -52,7 +61,7 @@
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/daily-updates/</guid>
-      <description>Intro Teams often have a daily catch-up, often referred to as a stand-up, where an update is provided by each member of the team.</description>
+      <description>Teams often have a daily catch-up, often referred to as a stand-up, where an update is provided by each member of the team.</description>
     </item>
     
     <item>
