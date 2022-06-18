@@ -33,6 +33,10 @@ There is another post archetype, a `til` (things/today I learnt). To
 create this run `hugo new til/<title-of-post>`. The front matter is different
 from development posts. All `til`s can be found under `/til`.
 
+The order of the tils is controlled by the `weight` set in the front matter of
+the `_index.md` file in the folder for the til. `weight` must be an integer and
+greater than 0.
+
 ## Notes
 
 Files added to [static/](./static) are included in the built output that is
