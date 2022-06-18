@@ -3,13 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.st3v3nhunt.me/til/git/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/hugo/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/ripgrep/</loc>
+    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/shell/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/vim/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.st3v3nhunt.me/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.st3v3nhunt.me/categories/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/hugo/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/vim/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/hugo/ordering-content/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/vim/interacting-with-vims-dictionary/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/tags/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.st3v3nhunt.me/posts/keep-a-brag-doc/</loc>
     <lastmod>2022-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -48,28 +103,8 @@
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/til/git/</loc>
-    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/til/</loc>
-    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
-    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.st3v3nhunt.me/til/git/get-last-commit-message/</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/til/shell/</loc>
-    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -84,11 +119,6 @@
   
   <url>
     <loc>https://blog.st3v3nhunt.me/tags/ripgrep/</loc>
-    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/til/ripgrep/</loc>
     <lastmod>2022-06-12T00:00:00+00:00</lastmod>
   </url>
   

@@ -9,7 +9,26 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/categories/til/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/categories/til/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>↕️  Ordering content</title>
+      <link>https://blog.st3v3nhunt.me/til/hugo/ordering-content/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/til/hugo/ordering-content/</guid>
+      <description>It is straight forward to order content in Hugo by leveraging front matter variables.</description>
+    </item>
+    
+    <item>
+      <title>📓 Interacting with vim&#39;s dictionary</title>
+      <link>https://blog.st3v3nhunt.me/til/vim/interacting-with-vims-dictionary/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/til/vim/interacting-with-vims-dictionary/</guid>
+      <description>Add a misspelt word to Vim&amp;rsquo;s dictionary with zg.
+See the list of suggestions for a misspelt word with z=.</description>
+    </item>
+    
     <item>
       <title>📓 Get last Git commit message</title>
       <link>https://blog.st3v3nhunt.me/til/git/get-last-commit-message/</link>
