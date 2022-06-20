@@ -9,7 +9,16 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📓 Docker Compose version key is not required after 3.7</title>
+      <link>https://blog.st3v3nhunt.me/til/docker/docker-compose-version-no-longer-required/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/til/docker/docker-compose-version-no-longer-required/</guid>
+      <description>From version 3.8 of the compose file specification the version key is no longer required.</description>
+    </item>
+    
     <item>
       <title>↕️  Ordering content</title>
       <link>https://blog.st3v3nhunt.me/til/hugo/ordering-content/</link>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.st3v3nhunt.me/til/docker/</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.st3v3nhunt.me/til/git/</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
   </url>
@@ -29,31 +34,41 @@
   
   <url>
     <loc>https://blog.st3v3nhunt.me/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.st3v3nhunt.me/categories/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.st3v3nhunt.me/tags/hugo/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/tags/docker/</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.st3v3nhunt.me/tags/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.st3v3nhunt.me/til/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/til/docker/docker-compose-version-no-longer-required/</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.st3v3nhunt.me/tags/hugo/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url>
   
