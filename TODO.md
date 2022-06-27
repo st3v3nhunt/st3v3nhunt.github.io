@@ -1,3 +1,3 @@
-# To do
+# Todo
 
-- Add new posts...
+- [ ] Improve 404
