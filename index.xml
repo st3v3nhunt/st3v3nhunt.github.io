@@ -9,7 +9,16 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🪅 Build, create and start named services from Docker Compose</title>
+      <link>https://blog.st3v3nhunt.me/til/docker/build-create-start-named-services-from-docker-compose/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/til/docker/build-create-start-named-services-from-docker-compose/</guid>
+      <description>It is possible to build, create, start and up a specific service or services from Docker Compose.</description>
+    </item>
+    
     <item>
       <title>📓 Docker Compose version key is not required after 3.7</title>
       <link>https://blog.st3v3nhunt.me/til/docker/docker-compose-version-no-longer-required/</link>
