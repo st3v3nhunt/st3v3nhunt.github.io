@@ -246,21 +246,21 @@ See the list of suggestions for a misspelt word with z=.</description>
     </item>
     
     <item>
-      <title>⚒️  Hack day lite</title>
-      <link>https://blog.st3v3nhunt.me/posts/hack-day/</link>
-      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.st3v3nhunt.me/posts/hack-day/</guid>
-      <description>This is a post I have been sat on for some time.</description>
-    </item>
-    
-    <item>
       <title>〰️ How to setup a simple Heroku pipeline</title>
       <link>https://blog.st3v3nhunt.me/posts/how-to-setup-a-simple-heroku-pipeline/</link>
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-to-setup-a-simple-heroku-pipeline/</guid>
       <description>Pipelines in Heroku are pretty awesome. This is how I went about setting up a Node.</description>
+    </item>
+    
+    <item>
+      <title>⚒️  Hack day lite</title>
+      <link>https://blog.st3v3nhunt.me/posts/hack-day/</link>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/hack-day/</guid>
+      <description>This is a post I have been sat on for some time.</description>
     </item>
     
     <item>
@@ -324,7 +324,7 @@ See the list of suggestions for a misspelt word with z=.</description>
       
       <guid>https://blog.st3v3nhunt.me/posts/powershell-snippets/</guid>
       <description>A collection of Powershell snippets I have found useful.
- Set the title of the window:  (Get-Host).</description>
+Set the title of the window: (Get-Host).</description>
     </item>
     
     <item>

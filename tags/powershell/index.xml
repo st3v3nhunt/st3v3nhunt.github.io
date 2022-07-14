@@ -17,7 +17,7 @@
       
       <guid>https://blog.st3v3nhunt.me/posts/powershell-snippets/</guid>
       <description>A collection of Powershell snippets I have found useful.
- Set the title of the window:  (Get-Host).</description>
+Set the title of the window: (Get-Host).</description>
     </item>
     
   </channel>

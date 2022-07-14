@@ -1,509 +1,307 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blog.st3v3nhunt.me/til/docker/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/git/</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/hugo/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/ripgrep/</loc>
     <lastmod>2022-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/shell/</loc>
     <lastmod>2022-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/vim/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/adr/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/architecture/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/categories/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/categories/development/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/posts/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/using-adrs/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/adr/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/architecture/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/categories/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/categories/development/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/posts/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/docker/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/docker/build-create-start-named-services-from-docker-compose/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/docker/docker-compose-version-no-longer-required/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/hugo/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/vim/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/hugo/ordering-content/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/vim/interacting-with-vims-dictionary/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/personal-development/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/reflection/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/hugo/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/vim/</loc>
+    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/keep-a-brag-doc/</loc>
     <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/git/</loc>
-    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/personal-development/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/reflection/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/git/get-last-commit-message/</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/shell/</loc>
-    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/git/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/shell/useful-bash-builtins/</loc>
     <lastmod>2022-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/ripgrep/</loc>
-    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/shell/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/ripgrep/search-hidden-files-with-ripgrep/</loc>
     <lastmod>2022-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/commits/</loc>
-    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/ripgrep/</loc>
+    <lastmod>2022-06-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/shell/source-and-export-all-vars-from-a-file/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/commits/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/daily-updates/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/guidance/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/communicating-changes-in-prs/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/guidance/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/microservices/</loc>
     <lastmod>2021-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/practices/</loc>
     <lastmod>2021-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/app-specific-domain-names-for-local-dev/</loc>
     <lastmod>2021-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/principles/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/general-working-principles/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/principles/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/dev-principles-and-practices/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/when-to-use-microservices/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/github/</loc>
-    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/notifications/</loc>
-    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/slack/</loc>
-    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/use-personal-slack-for-github-notifications/</loc>
     <lastmod>2016-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/ci/</loc>
-    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/gitlab/</loc>
-    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/teamcity/</loc>
-    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/github/</loc>
+    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/notifications/</loc>
+    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/slack/</loc>
+    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/teacmity-pipeline-iteration-two/</loc>
     <lastmod>2016-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/ci/</loc>
+    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/gitlab/</loc>
+    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/teamcity/</loc>
+    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/branch-based-nuget-packages-in-teacmity/</loc>
     <lastmod>2016-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/tfs/</loc>
-    <lastmod>2016-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/vcs/</loc>
-    <lastmod>2016-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/ways-of-working/</loc>
-    <lastmod>2016-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/diy-git-remote/</loc>
     <lastmod>2016-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/aliases/</loc>
-    <lastmod>2016-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/tfs/</loc>
+    <lastmod>2016-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/vcs/</loc>
+    <lastmod>2016-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/ways-of-working/</loc>
+    <lastmod>2016-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/git-aliases/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/teamcity-pipeline/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/aliases/</loc>
+    <lastmod>2016-04-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/how-i-work-with-git/</loc>
     <lastmod>2016-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/lessons/</loc>
-    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/sass/</loc>
-    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/gliffy-outage-lessons/</loc>
     <lastmod>2016-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/gittfs/</loc>
-    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/interesting-articles/</loc>
-    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/meta/</loc>
-    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/lessons/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/sass/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/interesting-articles/</loc>
     <lastmod>2016-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/how-i-work-with-git-and-tfs/</loc>
     <lastmod>2016-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/cd/</loc>
-    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/hackday/</loc>
-    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/heroku/</loc>
-    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/nhs/</loc>
-    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/posts/hack-day/</loc>
-    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/gittfs/</loc>
+    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/interesting-articles/</loc>
+    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/meta/</loc>
+    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/how-to-setup-a-simple-heroku-pipeline/</loc>
     <lastmod>2016-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/branch/</loc>
-    <lastmod>2016-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/fetch/</loc>
-    <lastmod>2016-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/posts/hack-day/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/cd/</loc>
+    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/hackday/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/heroku/</loc>
+    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/nhs/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/fetch-remote-git-branches/</loc>
     <lastmod>2016-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/agile/</loc>
-    <lastmod>2016-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/emoji/</loc>
-    <lastmod>2015-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/branch/</loc>
+    <lastmod>2016-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/fetch/</loc>
+    <lastmod>2016-01-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/how-much-is-an-emoji-worth/</loc>
     <lastmod>2015-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/are-your-commit-messages-insightful/</loc>
     <lastmod>2015-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/angularjs/</loc>
-    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/frontend/</loc>
-    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/javascript/</loc>
-    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/agile/</loc>
+    <lastmod>2016-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/emoji/</loc>
+    <lastmod>2015-10-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/getting-started-with-angularjs/</loc>
     <lastmod>2015-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/choosing-a-front-end-javascript-framework/</loc>
     <lastmod>2015-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/angularjs/</loc>
+    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/frontend/</loc>
+    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/javascript/</loc>
+    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/prune-remote-git-branches/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/powershell/</loc>
-    <lastmod>2016-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/tips/</loc>
-    <lastmod>2016-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/powershell-snippets/</loc>
     <lastmod>2016-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/trello/</loc>
-    <lastmod>2015-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/powershell/</loc>
+    <lastmod>2016-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/tips/</loc>
+    <lastmod>2016-02-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/tips-for-using-trello/</loc>
     <lastmod>2015-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/c#/</loc>
-    <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/razor/</loc>
-    <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/trello/</loc>
+    <lastmod>2015-06-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/dashed-html-attribute-in-c-sharp-view-engine/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.st3v3nhunt.me/tags/mongodb/</loc>
-    <lastmod>2014-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/c#/</loc>
+    <lastmod>2014-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/razor/</loc>
+    <lastmod>2014-09-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/do-not-include-near-in-count-queries/</loc>
     <lastmod>2014-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/mongodb/</loc>
+    <lastmod>2014-02-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/cumulative-flow-diagrams/</loc>
     <lastmod>2013-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/how-do-we-work/</loc>
     <lastmod>2013-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/search/</loc>
   </url>
-  
 </urlset>
