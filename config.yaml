@@ -31,6 +31,8 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+googleAnalytics: "G-0THF32FBF0"
+
 minify:
   disableXML: true
   minifyOutput: true
