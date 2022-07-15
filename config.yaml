@@ -3,7 +3,7 @@ enableEmoji: true
 paginate: 10
 summaryLength: 10
 theme: papermod
-title: A blog by st3v3nhunt
+title: blog.st3v3nhunt.me
 
 menu:
   main:
@@ -50,8 +50,7 @@ params:
   github: "st3v3nhunt"
   twitter: "st3v3nhunt"
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  description: "Blog by st3v3nhunt"
   keywords: [Blog, Portfolio, PaperMod]
   images: ["<link or path of image for opengraph, twitter-cards>"]
   defaultTheme: auto # dark, light
