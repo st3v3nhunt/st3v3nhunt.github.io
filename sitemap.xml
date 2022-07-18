@@ -17,8 +17,32 @@
     <loc>https://blog.st3v3nhunt.me/til/shell/</loc>
     <lastmod>2022-06-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://blog.st3v3nhunt.me/til/sveltejs/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/vim/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/til/sveltejs/fix-missing-module-error/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/categories/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/sveltejs/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/til/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
+    <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/using-adrs/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
@@ -29,28 +53,13 @@
     <loc>https://blog.st3v3nhunt.me/tags/architecture/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.st3v3nhunt.me/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/categories/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.st3v3nhunt.me/categories/development/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/posts/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.st3v3nhunt.me/tags/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/docker/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/til/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/til/docker/build-create-start-named-services-from-docker-compose/</loc>
