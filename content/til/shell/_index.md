@@ -1,6 +1,6 @@
 ---
-title: "shell"
+title: "Shell"
 weight: 190
 ---
 
-[bash](https://www.gnu.org/software/bash/) & [zsh](https://www.zsh.org/)
+[Bash](https://www.gnu.org/software/bash/) & [Zsh](https://www.zsh.org/)

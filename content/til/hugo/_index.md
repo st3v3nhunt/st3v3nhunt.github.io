@@ -1,6 +1,6 @@
 ---
-title: "hugo"
+title: "Hugo"
 weight: 80
 ---
 
-[HUGO](https://gohugo.io/)
+[Hugo](https://gohugo.io/)

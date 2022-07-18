@@ -1,6 +1,6 @@
 ---
-title: "git"
+title: "Git"
 weight: 70
 ---
 
-[git](https://git-scm.com/)
+[Git](https://git-scm.com/)

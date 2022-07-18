@@ -1,6 +1,6 @@
 ---
-title: "vim"
+title: "Vim"
 weight: 220
 ---
 
-[neovim](https://neovim.io/) & [vim](https://www.vim.org/)
+[Neovim](https://neovim.io/) & [Vim](https://www.vim.org/)
