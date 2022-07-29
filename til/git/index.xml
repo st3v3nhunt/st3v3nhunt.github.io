@@ -9,7 +9,16 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/til/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/til/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🐙 Custom email routing per organization in GitHub</title>
+      <link>https://blog.st3v3nhunt.me/til/git/custom-email-routing-per-organization-in-github/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/til/git/custom-email-routing-per-organization-in-github/</guid>
+      <description>Within GitHub, if you belong to multiple organisations it is easy to have those notifications routed to specific email addresses.</description>
+    </item>
+    
     <item>
       <title>📓 Get last Git commit message</title>
       <link>https://blog.st3v3nhunt.me/til/git/get-last-commit-message/</link>
