@@ -23,19 +23,40 @@
     <loc>https://blog.st3v3nhunt.me/til/vim/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://blog.st3v3nhunt.me/posts/hosting-govuk-prototypes/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/categories/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/categories/development/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/gov.uk/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/heroku/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/hosting/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/posts/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/prototypes/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/vim/access-env-vars-neovim/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.st3v3nhunt.me/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/categories/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/neovim/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/tags/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/til/</loc>
@@ -63,12 +84,6 @@
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/architecture/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/categories/development/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/posts/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/docker/</loc>
@@ -238,9 +253,6 @@
   </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/hackday/</loc>
     <lastmod>2016-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/tags/heroku/</loc>
-    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/nhs/</loc>
     <lastmod>2016-03-30T00:00:00+00:00</lastmod>

@@ -9,7 +9,16 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>☁️  Hosting GOV.UK prototypes</title>
+      <link>https://blog.st3v3nhunt.me/posts/hosting-govuk-prototypes/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/posts/hosting-govuk-prototypes/</guid>
+      <description>Whenever I have used the GOV.UK Prototype Kit to build a prototype I have always hosted it on Heroku.</description>
+    </item>
+    
     <item>
       <title>📚 Using Architectural Decision Records</title>
       <link>https://blog.st3v3nhunt.me/posts/using-adrs/</link>
