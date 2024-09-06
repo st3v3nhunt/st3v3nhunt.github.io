@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>agile on blog.st3v3nhunt.me</title>
+    <title>Agile on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/agile/</link>
-    <description>Recent content in agile on blog.st3v3nhunt.me</description>
+    <description>Recent content in Agile on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 13 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💵 How much is an emoji worth</title>
@@ -16,7 +17,8 @@
       <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-much-is-an-emoji-worth/</guid>
-      <description>I have written a bit about how to make your commit messages more insightful.</description>
+      <description>&lt;p&gt;I have written a bit about how to make your commit messages more
+&lt;a href=&#34;are-your-commit-messages-insightful/&#34;&gt;insightful&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,8 +27,12 @@
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/powershell-snippets/</guid>
-      <description>A collection of Powershell snippets I have found useful.
-Set the title of the window: (Get-Host).</description>
+      <description>&lt;p&gt;A collection of Powershell snippets I have found useful.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set the title of the window:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(Get-Host).UI.RawUI.WindowTitle = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;New Window Title&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pr</description>
     </item>
     
     <item>
@@ -35,7 +41,11 @@ Set the title of the window: (Get-Host).</description>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/tips-for-using-trello/</guid>
-      <description>The team I work in uses Trello to visualise our work.</description>
+      <description>&lt;p&gt;The team I work in uses &lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt; to visualise our work.
+Some of the team have been using similar tools in order to facilitate work
+visualisation for several years. Other members are much newer to the concept.
+Recently the team had a refresher session to bring everybody up to a similar
+level of understanding.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,7 +54,10 @@ Set the title of the window: (Get-Host).</description>
       <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/cumulative-flow-diagrams/</guid>
-      <description>What is a CFD? A CFD is a graph showing the state of the work over a period of time based on data acquired from Kanban.</description>
+      <description>&lt;h2 id=&#34;what-is-a-cfd&#34;&gt;What is a CFD?&lt;/h2&gt;
+&lt;p&gt;A CFD is a graph showing the state of the work over a period of time based on
+data acquired from
+&lt;a href=&#34;http://st3v3nhunt.tumblr.com/post/61110223853/what-work-has-work-where-working-work-wrangles-waiting&#34;&gt;Kanban&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,7 +66,7 @@ Set the title of the window: (Get-Host).</description>
       <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-do-we-work/</guid>
-      <description>This is a little bit about how work at where I work works.</description>
+      <description>&lt;p&gt;This is a little bit about how work at where I work works.&lt;/p&gt;</description>
     </item>
     
   </channel>

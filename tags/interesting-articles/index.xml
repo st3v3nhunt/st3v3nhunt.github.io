@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>interesting-articles on blog.st3v3nhunt.me</title>
+    <title>Interesting-Articles on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/interesting-articles/</link>
-    <description>Recent content in interesting-articles on blog.st3v3nhunt.me</description>
+    <description>Recent content in Interesting-Articles on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 29 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/interesting-articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>👺 Interesting articles (week one)</title>
@@ -16,7 +17,15 @@
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/interesting-articles/</guid>
-      <description>I was recently asked to provide a link to an article that had resonated with me in the recent past.</description>
+      <description>&lt;p&gt;I was recently asked to provide a link to an article that had resonated with me
+in the recent past. The first thing I did was provide a link to my
+&lt;a href=&#34;https://twitter.com/st3v3nhunt&#34;&gt;twitter account&lt;/a&gt; to that person. Thinking
+(hoping) the question would be answered.
+The second thing I did was to go through some of my time line to see what
+articles I had tweeted about. One of the things I found was I didn&amp;rsquo;t tweet all
+that often about articles I find align well to how I think. There are some but
+there is a lot of stuff I read and do nothing with. There are even fewer tweets
+about things I don&amp;rsquo;t feel align well with me which is probably a good thing!&lt;/p&gt;</description>
     </item>
     
   </channel>

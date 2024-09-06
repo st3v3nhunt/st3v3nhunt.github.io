@@ -1,22 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>neovim on blog.st3v3nhunt.me</title>
+    <title>Neovim on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/neovim/</link>
-    <description>Recent content in neovim on blog.st3v3nhunt.me</description>
+    <description>Recent content in Neovim on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/neovim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📓 What set this value?</title>
+      <link>https://blog.st3v3nhunt.me/til/vim/what-set-a-value/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.st3v3nhunt.me/til/vim/what-set-a-value/</guid>
+      <description>&lt;p&gt;Ever wanted to know what value a variable has and where it was set from in Vim?&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>📓 Access env vars in Neovim</title>
       <link>https://blog.st3v3nhunt.me/til/vim/access-env-vars-neovim/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/vim/access-env-vars-neovim/</guid>
-      <description>Accessing an environment variable within Neovim from a lua script is straight forward.</description>
+      <description>&lt;p&gt;Accessing an environment variable within Neovim from a lua script is straight
+forward. It is just a case of calling &lt;code&gt;vim.env.env-var-name&lt;/code&gt; where
+&lt;code&gt;env-var-name&lt;/code&gt; is the name of the environment variable e.g.&lt;/p&gt;</description>
     </item>
     
   </channel>

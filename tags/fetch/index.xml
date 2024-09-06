@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>fetch on blog.st3v3nhunt.me</title>
+    <title>Fetch on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/fetch/</link>
-    <description>Recent content in fetch on blog.st3v3nhunt.me</description>
+    <description>Recent content in Fetch on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/fetch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🎋 Fetch remote Git branches</title>
@@ -16,7 +17,8 @@
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/fetch-remote-git-branches/</guid>
-      <description>After having added a new remote to my local git repository via git remote add other-remote git@github.</description>
+      <description>&lt;p&gt;After having added a new remote to my local git repository via &lt;code&gt;git remote add other-remote git@github.com:user/other-repo&lt;/code&gt; I wanted to checkout one of the
+branches from that remote.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -9,6 +9,7 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/til/sveltejs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔨 Fix missing module error</title>
@@ -16,7 +17,11 @@
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/sveltejs/fix-missing-module-error/</guid>
-      <description>Within a Svelte project seeing an error such as cannot find module &#39;$lib/.</description>
+      <description>&lt;p&gt;Within a Svelte project seeing an error such as
+&lt;code&gt;cannot find module &#39;$lib/..&#39; or its corresponding type declarations&lt;/code&gt; can be
+resolved by running &lt;code&gt;npm run prepare&lt;/code&gt;. This will update &lt;code&gt;tsconfig.json&lt;/code&gt; to add
+&lt;code&gt;$lib&lt;/code&gt; to
+&lt;a href=&#34;https://www.typescriptlang.org/tsconfig#paths&#34;&gt;compilerOptions.paths&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

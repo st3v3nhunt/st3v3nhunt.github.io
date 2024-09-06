@@ -21,15 +21,30 @@
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/til/vim/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.st3v3nhunt.me/posts/hosting-govuk-prototypes/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+    <loc>https://blog.st3v3nhunt.me/til/vim/what-set-a-value/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/categories/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/neovim/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/tags/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/til/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.st3v3nhunt.me/posts/hosting-govuk-prototypes/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/categories/development/</loc>
@@ -50,19 +65,7 @@
     <loc>https://blog.st3v3nhunt.me/tags/prototypes/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.st3v3nhunt.me/tags/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.st3v3nhunt.me/til/vim/access-env-vars-neovim/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/tags/neovim/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/til/</loc>
-    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.st3v3nhunt.me/categories/til/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/til/git/custom-email-routing-per-organization-in-github/</loc>
@@ -314,7 +317,7 @@
     <loc>https://blog.st3v3nhunt.me/posts/dashed-html-attribute-in-c-sharp-view-engine/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.st3v3nhunt.me/tags/c#/</loc>
+    <loc>https://blog.st3v3nhunt.me/tags/c%23/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.st3v3nhunt.me/tags/razor/</loc>

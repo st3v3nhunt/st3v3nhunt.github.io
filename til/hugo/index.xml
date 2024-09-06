@@ -9,6 +9,7 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/til/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>↕️  Ordering content</title>
@@ -16,7 +17,11 @@
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/hugo/ordering-content/</guid>
-      <description>It is straight forward to order content in Hugo by leveraging front matter variables.</description>
+      <description>&lt;p&gt;It is straight forward to order content in Hugo by leveraging front matter
+variables. The default order is &lt;code&gt;Weight -&amp;gt; Date -&amp;gt; LinkTitle -&amp;gt; FilePath&lt;/code&gt;.
+It is easy to change the order based on the specific property of interest. See
+&lt;a href=&#34;https://gohugo.io/templates/lists/#order-content&#34;&gt;lists of content in Hugo&lt;/a&gt;
+for more information.&lt;/p&gt;</description>
     </item>
     
   </channel>

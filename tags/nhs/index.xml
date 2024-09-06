@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>nhs on blog.st3v3nhunt.me</title>
+    <title>Nhs on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/nhs/</link>
-    <description>Recent content in nhs on blog.st3v3nhunt.me</description>
+    <description>Recent content in Nhs on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 03 Feb 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/nhs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>⚒️  Hack day lite</title>
@@ -16,7 +17,9 @@
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/hack-day/</guid>
-      <description>This is a post I have been sat on for some time.</description>
+      <description>&lt;p&gt;This is a post I have been sat on for some time. In fact the date of the day in
+question was 01/02/2016 so some details are going to be a little inaccurate but
+hopefully the essence is maintained.&lt;/p&gt;</description>
     </item>
     
   </channel>

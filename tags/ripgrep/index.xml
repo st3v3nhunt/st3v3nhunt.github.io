@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ripgrep on blog.st3v3nhunt.me</title>
+    <title>Ripgrep on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/ripgrep/</link>
-    <description>Recent content in ripgrep on blog.st3v3nhunt.me</description>
+    <description>Recent content in Ripgrep on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/ripgrep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔍 Search hidden files with ripgrep</title>
@@ -16,7 +17,10 @@
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/ripgrep/search-hidden-files-with-ripgrep/</guid>
-      <description>ripgrep is an excellent alternative to grep. One of its benefits is how it filters the files it searches.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/BurntSushi/ripgrep&#34;&gt;ripgrep&lt;/a&gt; is an excellent alternative to
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Grep&#34;&gt;grep&lt;/a&gt;. One of its benefits is how it
+&lt;a href=&#34;https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md#automatic-filtering&#34;&gt;filters&lt;/a&gt;
+the files it searches.&lt;/p&gt;</description>
     </item>
     
   </channel>

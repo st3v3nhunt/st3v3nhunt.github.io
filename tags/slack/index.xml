@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>slack on blog.st3v3nhunt.me</title>
+    <title>Slack on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/slack/</link>
-    <description>Recent content in slack on blog.st3v3nhunt.me</description>
+    <description>Recent content in Slack on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 12 Jul 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/slack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🏦 Use personal Slack for GitHub notifications</title>
@@ -16,7 +17,9 @@
       <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/use-personal-slack-for-github-notifications/</guid>
-      <description>GitHub is a pretty decent cloud based Git repository. I would put it in my top 2 along with GitLab.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; is a pretty decent cloud based
+&lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt; repository. I would put it in my top 2 along with
+&lt;a href=&#34;https://gitlab.com/&#34;&gt;GitLab&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

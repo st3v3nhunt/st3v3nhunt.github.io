@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>shell on blog.st3v3nhunt.me</title>
+    <title>Shell on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/shell/</link>
-    <description>Recent content in shell on blog.st3v3nhunt.me</description>
+    <description>Recent content in Shell on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🐚 Useful bash builtins</title>
@@ -16,7 +17,8 @@
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/shell/useful-bash-builtins/</guid>
-      <description>A subset of Bash builtins I occasionally forget about and want a quick reference to.</description>
+      <description>&lt;p&gt;A subset of Bash builtins I occasionally forget about and want a quick
+reference to.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +27,8 @@
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/shell/source-and-export-all-vars-from-a-file/</guid>
-      <description>If you ever need to load a bunch of env vars into an environment it is easily accomplished by having them listed in a .</description>
+      <description>&lt;p&gt;If you ever need to load a bunch of env vars into an environment it is easily
+accomplished by having them listed in a &lt;code&gt;.env&lt;/code&gt; file e.g.&lt;/p&gt;</description>
     </item>
     
   </channel>

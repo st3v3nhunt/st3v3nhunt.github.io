@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>prototypes on blog.st3v3nhunt.me</title>
+    <title>Prototypes on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/prototypes/</link>
-    <description>Recent content in prototypes on blog.st3v3nhunt.me</description>
+    <description>Recent content in Prototypes on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/prototypes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>☁️  Hosting GOV.UK prototypes</title>
@@ -16,7 +17,13 @@
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/hosting-govuk-prototypes/</guid>
-      <description>Whenever I have used the GOV.UK Prototype Kit to build a prototype I have always hosted it on Heroku.</description>
+      <description>&lt;p&gt;Whenever I have used the
+&lt;a href=&#34;https://govuk-prototype-kit.herokuapp.com/&#34;&gt;GOV.UK Prototype Kit&lt;/a&gt;
+to build a prototype I have always hosted it on
+&lt;a href=&#34;https://www.heroku.com/&#34;&gt;Heroku&lt;/a&gt;. The main reason for doing this was because
+it was just so easy (I wrote a
+&lt;a href=&#34;./posts/how-to-setup-a-simple-heroku-pipeline/&#34;&gt;post&lt;/a&gt; about just how easy it
+was many years ago), it was also the default approach - until recently.&lt;/p&gt;</description>
     </item>
     
   </channel>

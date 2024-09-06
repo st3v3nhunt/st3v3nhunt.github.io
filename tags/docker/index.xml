@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>docker on blog.st3v3nhunt.me</title>
+    <title>Docker on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/docker/</link>
-    <description>Recent content in docker on blog.st3v3nhunt.me</description>
+    <description>Recent content in Docker on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🪅 Build, create and start named services from Docker Compose</title>
@@ -16,7 +17,14 @@
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/docker/build-create-start-named-services-from-docker-compose/</guid>
-      <description>It is possible to build, create, start and up a specific service or services from Docker Compose.</description>
+      <description>&lt;p&gt;It is possible to
+&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/compose_build/&#34;&gt;build&lt;/a&gt;,
+&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/compose_create/&#34;&gt;create&lt;/a&gt;,
+&lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/compose_start/&#34;&gt;start&lt;/a&gt;
+and &lt;a href=&#34;https://docs.docker.com/engine/reference/commandline/compose_uo/&#34;&gt;up&lt;/a&gt;
+a specific service or services from Docker Compose. By default these commands
+work with an optional list of services. Each service specified will have the
+command run for it.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +33,12 @@
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/docker/docker-compose-version-no-longer-required/</guid>
-      <description>From version 3.8 of the compose file specification the version key is no longer required.</description>
+      <description>&lt;p&gt;From version
+&lt;a href=&#34;https://docs.docker.com/compose/compose-file/compose-versioning/#version-38&#34;&gt;3.8&lt;/a&gt;
+of the compose file specification the version key is no longer required.
+However, it can be kept for
+&lt;a href=&#34;https://docs.docker.com/compose/compose-file/#version-top-level-element&#34;&gt;information&lt;/a&gt;,
+if so desired.&lt;/p&gt;</description>
     </item>
     
   </channel>

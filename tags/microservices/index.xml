@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>microservices on blog.st3v3nhunt.me</title>
+    <title>Microservices on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/microservices/</link>
-    <description>Recent content in microservices on blog.st3v3nhunt.me</description>
+    <description>Recent content in Microservices on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🖥️  App specific domain names for local dev</title>
@@ -16,7 +17,11 @@
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/app-specific-domain-names-for-local-dev/</guid>
-      <description>A common architectural style (at the time of writing) is to split up applications into many, smaller, more focussed applications.</description>
+      <description>&lt;p&gt;A common architectural style (at the time of writing) is to split up
+applications into many, smaller, more focussed applications. Frequently this
+style is known by the term &lt;code&gt;microservices&lt;/code&gt;. When working with microservices
+I&amp;rsquo;ve rarely had the need to run, and actually use, more than a single web
+application concurrently in my development environment.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +30,13 @@
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/when-to-use-microservices/</guid>
-      <description>I watched When To Use Microservices (And When Not to!) soon after it was published but never got round to publishing this post, which I wrote at the same time but have edited more recently so I could publish it.</description>
+      <description>&lt;p&gt;I watched
+&lt;a href=&#34;https://www.youtube.com/watch?v=GBTdnfD6s5Q&#34;&gt;When To Use Microservices (And When Not to!)&lt;/a&gt;
+soon after it was published but never got round to publishing this post, which
+I wrote at the same time but have edited more recently so I could publish it.
+The post contains some thoughts I had about the video and thought it would be
+worth capturing them and maybe try to get back into blogging at some regular
+interval, although clearly that didn&amp;rsquo;t happen at the time&amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>

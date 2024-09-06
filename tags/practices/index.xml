@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>practices on blog.st3v3nhunt.me</title>
+    <title>Practices on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/practices/</link>
-    <description>Recent content in practices on blog.st3v3nhunt.me</description>
+    <description>Recent content in Practices on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/practices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🖥️  App specific domain names for local dev</title>
@@ -16,7 +17,11 @@
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/app-specific-domain-names-for-local-dev/</guid>
-      <description>A common architectural style (at the time of writing) is to split up applications into many, smaller, more focussed applications.</description>
+      <description>&lt;p&gt;A common architectural style (at the time of writing) is to split up
+applications into many, smaller, more focussed applications. Frequently this
+style is known by the term &lt;code&gt;microservices&lt;/code&gt;. When working with microservices
+I&amp;rsquo;ve rarely had the need to run, and actually use, more than a single web
+application concurrently in my development environment.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +30,10 @@
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/general-working-principles/</guid>
-      <description>Following on from the post about development practices and principles I wanted to capture principles more related to general ways of thinking and working.</description>
+      <description>&lt;p&gt;Following on from the post about
+&lt;a href=&#34;../principles-dev/&#34;&gt;development practices and principles&lt;/a&gt;
+I wanted to capture principles more related to general ways of thinking and
+working. As before, this isn&amp;rsquo;t in any particular order.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,7 +42,11 @@
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/dev-principles-and-practices/</guid>
-      <description>During my time working in software development I&amp;rsquo;ve picked up a few guiding principles I try to consistently follow.</description>
+      <description>&lt;p&gt;During my time working in software development I&amp;rsquo;ve picked up a few guiding
+principles I try to consistently follow. Some of them have always been the way
+I&amp;rsquo;ve tried to work and others have been adopted after having been burnt by not
+using it in the first place or learning better ways of doing and thinking
+about things.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,7 +55,12 @@
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-to-setup-a-simple-heroku-pipeline/</guid>
-      <description>Pipelines in Heroku are pretty awesome. This is how I went about setting up a Node.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devcenter.heroku.com/articles/pipelines&#34;&gt;Pipelines in Heroku&lt;/a&gt; are
+pretty awesome. This is how I went about setting up a Node.js app to have
+automated deployments for all pull requests, an automated deployment to the
+staging environment and a manual stage for promoting to the production
+environment. Pretty much a bread and butter pipeline.
+&lt;em&gt;(This is an image heavy post)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -52,7 +69,9 @@
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/hack-day/</guid>
-      <description>This is a post I have been sat on for some time.</description>
+      <description>&lt;p&gt;This is a post I have been sat on for some time. In fact the date of the day in
+question was 01/02/2016 so some details are going to be a little inaccurate but
+hopefully the essence is maintained.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,7 +80,7 @@
       <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/are-your-commit-messages-insightful/</guid>
-      <description>A good commit message is a hard thing to do.</description>
+      <description>&lt;p&gt;A good commit message is a hard thing to do.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>development on blog.st3v3nhunt.me</title>
+    <title>Development on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/categories/development/</link>
-    <description>Recent content in development on blog.st3v3nhunt.me</description>
+    <description>Recent content in Development on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>☁️  Hosting GOV.UK prototypes</title>
@@ -16,7 +17,13 @@
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/hosting-govuk-prototypes/</guid>
-      <description>Whenever I have used the GOV.UK Prototype Kit to build a prototype I have always hosted it on Heroku.</description>
+      <description>&lt;p&gt;Whenever I have used the
+&lt;a href=&#34;https://govuk-prototype-kit.herokuapp.com/&#34;&gt;GOV.UK Prototype Kit&lt;/a&gt;
+to build a prototype I have always hosted it on
+&lt;a href=&#34;https://www.heroku.com/&#34;&gt;Heroku&lt;/a&gt;. The main reason for doing this was because
+it was just so easy (I wrote a
+&lt;a href=&#34;./posts/how-to-setup-a-simple-heroku-pipeline/&#34;&gt;post&lt;/a&gt; about just how easy it
+was many years ago), it was also the default approach - until recently.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +32,12 @@
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/using-adrs/</guid>
-      <description>Decisions are made all of the time when developing software. Some decisions are small and easy to change such as the name of a variable or whether to extract some code into a separate class/function/module.</description>
+      <description>&lt;p&gt;Decisions are made all of the time when developing software. Some decisions are
+small and easy to change such as the name of a variable or whether to extract
+some code into a separate class/function/module. Other decisions are larger and
+more difficult to change such as which test framework to use, whether to use
+JSON or XML or if a NoSQL database should be used in favour of a SQL database,
+etc.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,7 +46,10 @@
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/keep-a-brag-doc/</guid>
-      <description>Over the years I&amp;rsquo;ve tried to keep a record of what I&amp;rsquo;ve done in some form or other.</description>
+      <description>&lt;p&gt;Over the years I&amp;rsquo;ve tried to keep a record of what I&amp;rsquo;ve done in some form or
+other. I&amp;rsquo;ve experimented with &lt;a href=&#34;https://weeknot.es/&#34;&gt;week notes&lt;/a&gt; (effectively a
+summary of what you did over the past week that you might make public, or just
+keep private).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,7 +58,9 @@
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/daily-updates/</guid>
-      <description>Teams often have a daily catch-up, often referred to as a stand-up, where an update is provided by each member of the team.</description>
+      <description>&lt;p&gt;Teams often have a daily catch-up, often referred to as a stand-up, where an
+update is provided by each member of the team. The standard approach to the
+daily updates is a 15 minute meeting where participants answer three questions:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -52,7 +69,8 @@
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/communicating-changes-in-prs/</guid>
-      <description>When asking for a review of a pull request (PR) ensure there is suitable context provided to the reviewer(s).</description>
+      <description>&lt;p&gt;When asking for a review of a pull request (PR) ensure there is suitable
+context provided to the reviewer(s).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -61,7 +79,11 @@
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/app-specific-domain-names-for-local-dev/</guid>
-      <description>A common architectural style (at the time of writing) is to split up applications into many, smaller, more focussed applications.</description>
+      <description>&lt;p&gt;A common architectural style (at the time of writing) is to split up
+applications into many, smaller, more focussed applications. Frequently this
+style is known by the term &lt;code&gt;microservices&lt;/code&gt;. When working with microservices
+I&amp;rsquo;ve rarely had the need to run, and actually use, more than a single web
+application concurrently in my development environment.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -70,7 +92,10 @@
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/general-working-principles/</guid>
-      <description>Following on from the post about development practices and principles I wanted to capture principles more related to general ways of thinking and working.</description>
+      <description>&lt;p&gt;Following on from the post about
+&lt;a href=&#34;../principles-dev/&#34;&gt;development practices and principles&lt;/a&gt;
+I wanted to capture principles more related to general ways of thinking and
+working. As before, this isn&amp;rsquo;t in any particular order.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,7 +104,11 @@
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/dev-principles-and-practices/</guid>
-      <description>During my time working in software development I&amp;rsquo;ve picked up a few guiding principles I try to consistently follow.</description>
+      <description>&lt;p&gt;During my time working in software development I&amp;rsquo;ve picked up a few guiding
+principles I try to consistently follow. Some of them have always been the way
+I&amp;rsquo;ve tried to work and others have been adopted after having been burnt by not
+using it in the first place or learning better ways of doing and thinking
+about things.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -88,7 +117,13 @@
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/when-to-use-microservices/</guid>
-      <description>I watched When To Use Microservices (And When Not to!) soon after it was published but never got round to publishing this post, which I wrote at the same time but have edited more recently so I could publish it.</description>
+      <description>&lt;p&gt;I watched
+&lt;a href=&#34;https://www.youtube.com/watch?v=GBTdnfD6s5Q&#34;&gt;When To Use Microservices (And When Not to!)&lt;/a&gt;
+soon after it was published but never got round to publishing this post, which
+I wrote at the same time but have edited more recently so I could publish it.
+The post contains some thoughts I had about the video and thought it would be
+worth capturing them and maybe try to get back into blogging at some regular
+interval, although clearly that didn&amp;rsquo;t happen at the time&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -97,7 +132,9 @@
       <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/use-personal-slack-for-github-notifications/</guid>
-      <description>GitHub is a pretty decent cloud based Git repository. I would put it in my top 2 along with GitLab.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; is a pretty decent cloud based
+&lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt; repository. I would put it in my top 2 along with
+&lt;a href=&#34;https://gitlab.com/&#34;&gt;GitLab&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -106,7 +143,10 @@
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/teacmity-pipeline-iteration-two/</guid>
-      <description>Now I have had the TeamCity build pipeline running for a while I have had chance to review how it works.</description>
+      <description>&lt;p&gt;Now I have had the &lt;a href=&#34;../teamcity-pipeline/&#34;&gt;TeamCity build
+pipeline&lt;/a&gt; running for a while
+I have had chance to review how it works. I have made a number of changes which
+I have summarised, along with the reasoning below.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -115,7 +155,11 @@
       <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/branch-based-nuget-packages-in-teacmity/</guid>
-      <description>As I was reviewing the TeamCity build configuration I&amp;rsquo;d setup with my colleagues, it was pointed out every build was creating a new NuGet package.</description>
+      <description>&lt;p&gt;As I was reviewing the TeamCity build configuration I&amp;rsquo;d
+&lt;a href=&#34;../teamcity-pipeline/&#34;&gt;setup&lt;/a&gt; with my colleagues, it
+was pointed out every build was creating a new NuGet package. Not great when
+you consider every branch was triggering a build and most of those branches
+were not &lt;code&gt;master&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -124,7 +168,11 @@
       <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/diy-git-remote/</guid>
-      <description>Working with a non-cloud hosted Git remote I often work in environments where the code is centrally stored in TFS.</description>
+      <description>&lt;h2 id=&#34;working-with-a-non-cloud-hosted-git-remote&#34;&gt;Working with a non-cloud hosted Git remote&lt;/h2&gt;
+&lt;p&gt;I often work in environments where the code is centrally stored in TFS. And as
+I hate, HATE, &lt;strong&gt;HATE&lt;/strong&gt; TFS I have to find other ways to interact with the VCS
+to keep my sanity. &lt;a href=&#34;http://git-tfs.com/&#34;&gt;GitTFS&lt;/a&gt; to the rescue. I&amp;rsquo;ve written
+about this &lt;a href=&#34;../how-i-work-with-git-and-tfs/&#34;&gt;before&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -133,7 +181,11 @@
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/git-aliases/</guid>
-      <description>In order to provide a consistent development environment between team members as well as making it easier to do physical pair programming sharing a .</description>
+      <description>&lt;p&gt;In order to provide a consistent development environment between team members
+as well as making it easier to do physical pair programming sharing a
+&lt;code&gt;.gitconfig&lt;/code&gt; is a good thing to do. After all, when using another person&amp;rsquo;s
+machine there are few things more annoying than not having access to the same
+shortcuts you rely on.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -142,7 +194,8 @@
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/teamcity-pipeline/</guid>
-      <description>It has been a while since I setup a build configuration in TeamCity.</description>
+      <description>&lt;p&gt;It has been a while since I setup a build configuration in TeamCity. I thought
+I would record what I did this time around.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -151,7 +204,19 @@
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-i-work-with-git/</guid>
-      <description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description>
+      <description>&lt;p&gt;I really enjoy introducing people to Git. Pretty much without fail they see how
+much better their development work-flow can be and find their work more
+enjoyable as a result. This is especially true if they are coming from a TFS
+background. See how I work with
+&lt;a href=&#34;../how-i-work-with-git-and-tfs/&#34;&gt;Git and TFS&lt;/a&gt;.
+However, with pleasure comes pain. For Git, that pain is in getting over the
+learning curve. The size and steepness of the curve varies depending on
+previous experience of
+&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_version_control_software&#34;&gt;Version Control Systems&lt;/a&gt;.
+In my experience, TFS does not provide a good base knowledge to work from as it
+tries to hide as much as possible from the user. Clearly Git is doing a lot for
+you too but the way it works is more exposed. For example, even the most basic
+of things like adding files into the index can seem strange to a TFS user.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -160,7 +225,13 @@
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/gliffy-outage-lessons/</guid>
-      <description>Ever since the recent lengthy and complete outage of Gliffy, I have been thinking about how I could (should that be a should?</description>
+      <description>&lt;p&gt;Ever since the recent lengthy and complete
+&lt;a href=&#34;http://support.gliffy.com/entries/98911057-RESOLVED-Gliffy-Online-System-Outage-&#34;&gt;outage of Gliffy&lt;/a&gt;,
+I have been thinking about how I could (should that be a should?) protect
+myself when working with SaaS. Everything is sorted now and Gliffy have a
+&lt;a href=&#34;https://www.gliffy.com/blog/2016/03/25/turtle-and-the-hare/&#34;&gt;post&lt;/a&gt; explaining
+a bit more detail on the outage. One of the takeaways from that being disaster
+recovery plans should probably be practiced more often.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -169,7 +240,15 @@
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/interesting-articles/</guid>
-      <description>I was recently asked to provide a link to an article that had resonated with me in the recent past.</description>
+      <description>&lt;p&gt;I was recently asked to provide a link to an article that had resonated with me
+in the recent past. The first thing I did was provide a link to my
+&lt;a href=&#34;https://twitter.com/st3v3nhunt&#34;&gt;twitter account&lt;/a&gt; to that person. Thinking
+(hoping) the question would be answered.
+The second thing I did was to go through some of my time line to see what
+articles I had tweeted about. One of the things I found was I didn&amp;rsquo;t tweet all
+that often about articles I find align well to how I think. There are some but
+there is a lot of stuff I read and do nothing with. There are even fewer tweets
+about things I don&amp;rsquo;t feel align well with me which is probably a good thing!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -178,7 +257,9 @@
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-i-work-with-git-and-tfs/</guid>
-      <description>This post has been one I&amp;rsquo;ve been meaning to write for months and months.</description>
+      <description>&lt;p&gt;This post has been one I&amp;rsquo;ve been meaning to write for months and months.
+Finally, I&amp;rsquo;ve got round to it! This does mean specifics are going to be few and
+far between&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -187,7 +268,12 @@
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-to-setup-a-simple-heroku-pipeline/</guid>
-      <description>Pipelines in Heroku are pretty awesome. This is how I went about setting up a Node.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://devcenter.heroku.com/articles/pipelines&#34;&gt;Pipelines in Heroku&lt;/a&gt; are
+pretty awesome. This is how I went about setting up a Node.js app to have
+automated deployments for all pull requests, an automated deployment to the
+staging environment and a manual stage for promoting to the production
+environment. Pretty much a bread and butter pipeline.
+&lt;em&gt;(This is an image heavy post)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -196,7 +282,9 @@
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/hack-day/</guid>
-      <description>This is a post I have been sat on for some time.</description>
+      <description>&lt;p&gt;This is a post I have been sat on for some time. In fact the date of the day in
+question was 01/02/2016 so some details are going to be a little inaccurate but
+hopefully the essence is maintained.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -205,7 +293,8 @@
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/fetch-remote-git-branches/</guid>
-      <description>After having added a new remote to my local git repository via git remote add other-remote git@github.</description>
+      <description>&lt;p&gt;After having added a new remote to my local git repository via &lt;code&gt;git remote add other-remote git@github.com:user/other-repo&lt;/code&gt; I wanted to checkout one of the
+branches from that remote.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -214,7 +303,8 @@
       <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-much-is-an-emoji-worth/</guid>
-      <description>I have written a bit about how to make your commit messages more insightful.</description>
+      <description>&lt;p&gt;I have written a bit about how to make your commit messages more
+&lt;a href=&#34;are-your-commit-messages-insightful/&#34;&gt;insightful&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -223,7 +313,7 @@
       <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/are-your-commit-messages-insightful/</guid>
-      <description>A good commit message is a hard thing to do.</description>
+      <description>&lt;p&gt;A good commit message is a hard thing to do.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -232,7 +322,8 @@
       <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/getting-started-with-angularjs/</guid>
-      <description>There are so many resources available to help you get going with AngularJS it can be difficult to know where to start.</description>
+      <description>&lt;p&gt;There are so many resources available to help you get going with
+&lt;a href=&#34;https://angularjs.org/&#34;&gt;AngularJS&lt;/a&gt; it can be difficult to know where to start.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -241,7 +332,9 @@
       <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/choosing-a-front-end-javascript-framework/</guid>
-      <description>The majority of my coding time is spent in the back-end, so to speak.</description>
+      <description>&lt;p&gt;The majority of my coding time is spent in the back-end, so to speak. Mostly
+within a Microsoft environment. When an opportunity arises to discard the
+shackles of Visual Studio I figuratively leap at the chance.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -250,7 +343,9 @@
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/prune-remote-git-branches/</guid>
-      <description>Using git branch -r to check the list of branches on the remote can often lead to a long list of branches making it difficult to tell which are active e.</description>
+      <description>&lt;p&gt;Using &lt;code&gt;git branch -r&lt;/code&gt; to check the list of branches on the remote can often
+lead to a long list of branches making it difficult to tell which are active
+e.g.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -259,8 +354,12 @@
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/powershell-snippets/</guid>
-      <description>A collection of Powershell snippets I have found useful.
-Set the title of the window: (Get-Host).</description>
+      <description>&lt;p&gt;A collection of Powershell snippets I have found useful.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set the title of the window:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(Get-Host).UI.RawUI.WindowTitle = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;New Window Title&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pr</description>
     </item>
     
     <item>
@@ -269,7 +368,11 @@ Set the title of the window: (Get-Host).</description>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/tips-for-using-trello/</guid>
-      <description>The team I work in uses Trello to visualise our work.</description>
+      <description>&lt;p&gt;The team I work in uses &lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt; to visualise our work.
+Some of the team have been using similar tools in order to facilitate work
+visualisation for several years. Other members are much newer to the concept.
+Recently the team had a refresher session to bring everybody up to a similar
+level of understanding.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -278,7 +381,8 @@ Set the title of the window: (Get-Host).</description>
       <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/dashed-html-attribute-in-c-sharp-view-engine/</guid>
-      <description>How do you generate attributes for html elements that have a dash (-) in them through a C# view template engine while using object initialiser syntax?</description>
+      <description>&lt;p&gt;How do you generate attributes for html elements that have a dash (&lt;code&gt;-&lt;/code&gt;) in them
+through a C# view template engine while using object initialiser syntax?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -287,7 +391,10 @@ Set the title of the window: (Get-Host).</description>
       <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/do-not-include-near-in-count-queries/</guid>
-      <description>Using MongoDB to build an API providing some search and filtering functionality.</description>
+      <description>&lt;p&gt;Using MongoDB to build an API providing some search and filtering
+functionality. One of the searches was using the &lt;code&gt;$near&lt;/code&gt; query. As part of the
+call the total number of documents matching the query also needed to be
+returned.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -296,7 +403,10 @@ Set the title of the window: (Get-Host).</description>
       <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/cumulative-flow-diagrams/</guid>
-      <description>What is a CFD? A CFD is a graph showing the state of the work over a period of time based on data acquired from Kanban.</description>
+      <description>&lt;h2 id=&#34;what-is-a-cfd&#34;&gt;What is a CFD?&lt;/h2&gt;
+&lt;p&gt;A CFD is a graph showing the state of the work over a period of time based on
+data acquired from
+&lt;a href=&#34;http://st3v3nhunt.tumblr.com/post/61110223853/what-work-has-work-where-working-work-wrangles-waiting&#34;&gt;Kanban&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -305,7 +415,7 @@ Set the title of the window: (Get-Host).</description>
       <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-do-we-work/</guid>
-      <description>This is a little bit about how work at where I work works.</description>
+      <description>&lt;p&gt;This is a little bit about how work at where I work works.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -9,6 +9,7 @@
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/til/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🐙 Custom email routing per organization in GitHub</title>
@@ -16,7 +17,10 @@
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/git/custom-email-routing-per-organization-in-github/</guid>
-      <description>Within GitHub, if you belong to multiple organisations it is easy to have those notifications routed to specific email addresses.</description>
+      <description>&lt;p&gt;Within &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, if you belong to multiple organisations it
+is easy to have those notifications routed to specific email addresses. This is
+very useful if, for example, you use the same GitHub account for work and
+personal use.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +29,7 @@
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/til/git/get-last-commit-message/</guid>
-      <description>In a Git repo run git log -1 to get details of the last commit.</description>
+      <description>&lt;p&gt;In a Git repo run &lt;code&gt;git log -1&lt;/code&gt; to get details of the last commit.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>gitlab on blog.st3v3nhunt.me</title>
+    <title>Gitlab on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/gitlab/</link>
-    <description>Recent content in gitlab on blog.st3v3nhunt.me</description>
+    <description>Recent content in Gitlab on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 28 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🎉 TeamCity Pipeline - iteration two</title>
@@ -16,7 +17,10 @@
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/teacmity-pipeline-iteration-two/</guid>
-      <description>Now I have had the TeamCity build pipeline running for a while I have had chance to review how it works.</description>
+      <description>&lt;p&gt;Now I have had the &lt;a href=&#34;../teamcity-pipeline/&#34;&gt;TeamCity build
+pipeline&lt;/a&gt; running for a while
+I have had chance to review how it works. I have made a number of changes which
+I have summarised, along with the reasoning below.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +29,11 @@
       <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/branch-based-nuget-packages-in-teacmity/</guid>
-      <description>As I was reviewing the TeamCity build configuration I&amp;rsquo;d setup with my colleagues, it was pointed out every build was creating a new NuGet package.</description>
+      <description>&lt;p&gt;As I was reviewing the TeamCity build configuration I&amp;rsquo;d
+&lt;a href=&#34;../teamcity-pipeline/&#34;&gt;setup&lt;/a&gt; with my colleagues, it
+was pointed out every build was creating a new NuGet package. Not great when
+you consider every branch was triggering a build and most of those branches
+were not &lt;code&gt;master&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,7 +42,8 @@
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/teamcity-pipeline/</guid>
-      <description>It has been a while since I setup a build configuration in TeamCity.</description>
+      <description>&lt;p&gt;It has been a while since I setup a build configuration in TeamCity. I thought
+I would record what I did this time around.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,7 +52,19 @@
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-i-work-with-git/</guid>
-      <description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description>
+      <description>&lt;p&gt;I really enjoy introducing people to Git. Pretty much without fail they see how
+much better their development work-flow can be and find their work more
+enjoyable as a result. This is especially true if they are coming from a TFS
+background. See how I work with
+&lt;a href=&#34;../how-i-work-with-git-and-tfs/&#34;&gt;Git and TFS&lt;/a&gt;.
+However, with pleasure comes pain. For Git, that pain is in getting over the
+learning curve. The size and steepness of the curve varies depending on
+previous experience of
+&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_version_control_software&#34;&gt;Version Control Systems&lt;/a&gt;.
+In my experience, TFS does not provide a good base knowledge to work from as it
+tries to hide as much as possible from the user. Clearly Git is doing a lot for
+you too but the way it works is more exposed. For example, even the most basic
+of things like adding files into the index can seem strange to a TFS user.&lt;/p&gt;</description>
     </item>
     
   </channel>

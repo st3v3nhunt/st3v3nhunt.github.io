@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>lessons on blog.st3v3nhunt.me</title>
+    <title>Lessons on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/lessons/</link>
-    <description>Recent content in lessons on blog.st3v3nhunt.me</description>
+    <description>Recent content in Lessons on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 30 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/lessons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📉 What lessons should one learn from the Gliffy outage?</title>
@@ -16,7 +17,13 @@
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/gliffy-outage-lessons/</guid>
-      <description>Ever since the recent lengthy and complete outage of Gliffy, I have been thinking about how I could (should that be a should?</description>
+      <description>&lt;p&gt;Ever since the recent lengthy and complete
+&lt;a href=&#34;http://support.gliffy.com/entries/98911057-RESOLVED-Gliffy-Online-System-Outage-&#34;&gt;outage of Gliffy&lt;/a&gt;,
+I have been thinking about how I could (should that be a should?) protect
+myself when working with SaaS. Everything is sorted now and Gliffy have a
+&lt;a href=&#34;https://www.gliffy.com/blog/2016/03/25/turtle-and-the-hare/&#34;&gt;post&lt;/a&gt; explaining
+a bit more detail on the outage. One of the takeaways from that being disaster
+recovery plans should probably be practiced more often.&lt;/p&gt;</description>
     </item>
     
   </channel>

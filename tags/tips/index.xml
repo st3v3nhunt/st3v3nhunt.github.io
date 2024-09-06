@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>tips on blog.st3v3nhunt.me</title>
+    <title>Tips on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/tips/</link>
-    <description>Recent content in tips on blog.st3v3nhunt.me</description>
+    <description>Recent content in Tips on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 15 Jul 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔌 Powershell snippets</title>
@@ -16,8 +17,12 @@
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/powershell-snippets/</guid>
-      <description>A collection of Powershell snippets I have found useful.
-Set the title of the window: (Get-Host).</description>
+      <description>&lt;p&gt;A collection of Powershell snippets I have found useful.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set the title of the window:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(Get-Host).UI.RawUI.WindowTitle = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;New Window Title&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pr</description>
     </item>
     
     <item>
@@ -26,7 +31,11 @@ Set the title of the window: (Get-Host).</description>
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/tips-for-using-trello/</guid>
-      <description>The team I work in uses Trello to visualise our work.</description>
+      <description>&lt;p&gt;The team I work in uses &lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt; to visualise our work.
+Some of the team have been using similar tools in order to facilitate work
+visualisation for several years. Other members are much newer to the concept.
+Recently the team had a refresher session to bring everybody up to a similar
+level of understanding.&lt;/p&gt;</description>
     </item>
     
   </channel>

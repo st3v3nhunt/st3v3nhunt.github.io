@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>frontend on blog.st3v3nhunt.me</title>
+    <title>Frontend on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/frontend/</link>
-    <description>Recent content in frontend on blog.st3v3nhunt.me</description>
+    <description>Recent content in Frontend on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 09 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📏 Getting started with AngularJS</title>
@@ -16,7 +17,8 @@
       <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/getting-started-with-angularjs/</guid>
-      <description>There are so many resources available to help you get going with AngularJS it can be difficult to know where to start.</description>
+      <description>&lt;p&gt;There are so many resources available to help you get going with
+&lt;a href=&#34;https://angularjs.org/&#34;&gt;AngularJS&lt;/a&gt; it can be difficult to know where to start.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +27,9 @@
       <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/choosing-a-front-end-javascript-framework/</guid>
-      <description>The majority of my coding time is spent in the back-end, so to speak.</description>
+      <description>&lt;p&gt;The majority of my coding time is spent in the back-end, so to speak. Mostly
+within a Microsoft environment. When an opportunity arises to discard the
+shackles of Visual Studio I figuratively leap at the chance.&lt;/p&gt;</description>
     </item>
     
   </channel>

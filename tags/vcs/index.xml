@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>vcs on blog.st3v3nhunt.me</title>
+    <title>Vcs on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/vcs/</link>
-    <description>Recent content in vcs on blog.st3v3nhunt.me</description>
+    <description>Recent content in Vcs on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/vcs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔨 DIY Git remotes</title>
@@ -16,7 +17,11 @@
       <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/diy-git-remote/</guid>
-      <description>Working with a non-cloud hosted Git remote I often work in environments where the code is centrally stored in TFS.</description>
+      <description>&lt;h2 id=&#34;working-with-a-non-cloud-hosted-git-remote&#34;&gt;Working with a non-cloud hosted Git remote&lt;/h2&gt;
+&lt;p&gt;I often work in environments where the code is centrally stored in TFS. And as
+I hate, HATE, &lt;strong&gt;HATE&lt;/strong&gt; TFS I have to find other ways to interact with the VCS
+to keep my sanity. &lt;a href=&#34;http://git-tfs.com/&#34;&gt;GitTFS&lt;/a&gt; to the rescue. I&amp;rsquo;ve written
+about this &lt;a href=&#34;../how-i-work-with-git-and-tfs/&#34;&gt;before&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +30,7 @@
       <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/are-your-commit-messages-insightful/</guid>
-      <description>A good commit message is a hard thing to do.</description>
+      <description>&lt;p&gt;A good commit message is a hard thing to do.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>github on blog.st3v3nhunt.me</title>
+    <title>Github on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/github/</link>
-    <description>Recent content in github on blog.st3v3nhunt.me</description>
+    <description>Recent content in Github on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 12 Jul 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🏦 Use personal Slack for GitHub notifications</title>
@@ -16,7 +17,9 @@
       <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/use-personal-slack-for-github-notifications/</guid>
-      <description>GitHub is a pretty decent cloud based Git repository. I would put it in my top 2 along with GitLab.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; is a pretty decent cloud based
+&lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt; repository. I would put it in my top 2 along with
+&lt;a href=&#34;https://gitlab.com/&#34;&gt;GitLab&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -25,7 +28,19 @@
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/how-i-work-with-git/</guid>
-      <description>I really enjoy introducing people to Git. Pretty much without fail they see how much better their development work-flow can be and find their work more enjoyable as a result.</description>
+      <description>&lt;p&gt;I really enjoy introducing people to Git. Pretty much without fail they see how
+much better their development work-flow can be and find their work more
+enjoyable as a result. This is especially true if they are coming from a TFS
+background. See how I work with
+&lt;a href=&#34;../how-i-work-with-git-and-tfs/&#34;&gt;Git and TFS&lt;/a&gt;.
+However, with pleasure comes pain. For Git, that pain is in getting over the
+learning curve. The size and steepness of the curve varies depending on
+previous experience of
+&lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_version_control_software&#34;&gt;Version Control Systems&lt;/a&gt;.
+In my experience, TFS does not provide a good base knowledge to work from as it
+tries to hide as much as possible from the user. Clearly Git is doing a lot for
+you too but the way it works is more exposed. For example, even the most basic
+of things like adding files into the index can seem strange to a TFS user.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>trello on blog.st3v3nhunt.me</title>
+    <title>Trello on blog.st3v3nhunt.me</title>
     <link>https://blog.st3v3nhunt.me/tags/trello/</link>
-    <description>Recent content in trello on blog.st3v3nhunt.me</description>
+    <description>Recent content in Trello on blog.st3v3nhunt.me</description>
     <image>
       <url>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.st3v3nhunt.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 18 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.st3v3nhunt.me/tags/trello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📇 Tips for using Trello</title>
@@ -16,7 +17,11 @@
       <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.st3v3nhunt.me/posts/tips-for-using-trello/</guid>
-      <description>The team I work in uses Trello to visualise our work.</description>
+      <description>&lt;p&gt;The team I work in uses &lt;a href=&#34;https://trello.com&#34;&gt;Trello&lt;/a&gt; to visualise our work.
+Some of the team have been using similar tools in order to facilitate work
+visualisation for several years. Other members are much newer to the concept.
+Recently the team had a refresher session to bring everybody up to a similar
+level of understanding.&lt;/p&gt;</description>
     </item>
     
   </channel>
